@@ -31,7 +31,7 @@ import {
   YAxis,
 } from "recharts";
 
-const API_BASE_URL = "http://localhost:4000/api";
+const API_BASE_URL = "https://law-link-bd-last.vercel.app/api";
 
 const CHART_COLORS = [
   "#06b6d4",

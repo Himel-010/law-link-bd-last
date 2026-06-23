@@ -32,7 +32,7 @@ import { restoreUser } from "../../Redux/UserSlice/UserSlice";
 import postI18n from "../../json/post.json";
 
 const normalizeApiBaseUrl = (value = "") => {
-  const raw = String(value || "").trim() || "http://localhost:4000";
+  const raw = String(value || "").trim() || "https://law-link-bd-last.vercel.app";
   const clean = raw.replace(/\/+$/, "");
   return clean.endsWith("/api") ? clean : `${clean}/api`;
 };

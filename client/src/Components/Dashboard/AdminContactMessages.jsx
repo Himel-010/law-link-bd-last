@@ -1,6 +1,6 @@
 import React, { useCallback, useEffect, useMemo, useState } from "react";
 
-const API_BASE = "http://localhost:4000/api/contact";
+const API_BASE = "https://law-link-bd-last.vercel.app/api/contact";
 
 const getStoredAuth = () => {
   const localUser = localStorage.getItem("currentUser");

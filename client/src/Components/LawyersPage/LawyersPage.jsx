@@ -27,7 +27,7 @@ import {
 import lawyersI18n from "../../json/lawyers.json";
 
 const normalizeApiBaseUrl = (value = "") => {
-  const cleanBase = String(value || "http://localhost:4000").replace(/\/$/, "");
+  const cleanBase = String(value || "https://law-link-bd-last.vercel.app").replace(/\/$/, "");
   return cleanBase.endsWith("/api") ? cleanBase : `${cleanBase}/api`;
 };
 

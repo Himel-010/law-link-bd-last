@@ -32,7 +32,7 @@ import {
 import lawyerDetailsI18n from "../../../json/lawyerDetails.json";
 
 const normalizeApiBaseUrl = (value = "") => {
-  const fallback = "http://localhost:4000";
+  const fallback = "https://law-link-bd-last.vercel.app";
   const raw = String(value || fallback).trim().replace(/\/+$/, "");
 
   if (raw.endsWith("/api")) return raw;

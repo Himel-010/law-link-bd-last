@@ -27,7 +27,7 @@ import {
   FiXCircle,
 } from "react-icons/fi";
 
-const API_BASE_URL = "http://localhost:4000/api";
+const API_BASE_URL = "https://law-link-bd-last.vercel.app/api";
 
 const getStoredAuth = () => {
   const localUser = localStorage.getItem("currentUser");

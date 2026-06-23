@@ -18,7 +18,7 @@ import {
 import { FaGem } from "react-icons/fa";
 import { motion, AnimatePresence } from "framer-motion";
 
-const API_BASE_URL = "http://localhost:4000/api";
+const API_BASE_URL = "https://law-link-bd-last.vercel.app/api";
 
 const PAYMENT_METHODS = [
   {

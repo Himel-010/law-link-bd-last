@@ -19,7 +19,7 @@ import {
 } from "lucide-react";
 import translations from "../../json/contact.json";
 
-const API_BASE_URL = "http://localhost:4000/api";
+const API_BASE_URL = "https://law-link-bd-last.vercel.app/api";
 
 const initialFormData = {
   name: "",

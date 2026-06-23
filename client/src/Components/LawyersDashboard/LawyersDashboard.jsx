@@ -13,7 +13,7 @@ import { motion } from "framer-motion";
 import lawyerDashboardI18n from "../../json/lawyerDashboard.json";
 
 const normalizeApiBaseUrl = (value = "") => {
-  const fallback = "http://localhost:4000";
+  const fallback = "https://law-link-bd-last.vercel.app";
   const raw = String(value || fallback).trim().replace(/\/+$/, "");
   return raw.endsWith("/api") ? raw : `${raw}/api`;
 };

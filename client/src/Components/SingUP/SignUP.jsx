@@ -94,8 +94,8 @@ const SignUp = () => {
 
       const endpoint =
         formData.userType === "lawyer"
-          ? "http://localhost:4000/api/users/register/lawyer"
-          : "http://localhost:4000/api/users/register/client"
+          ? "https://law-link-bd-last.vercel.app/api/users/register/lawyer"
+          : "https://law-link-bd-last.vercel.app/api/users/register/client"
 
       const payload =
         formData.userType === "lawyer"

@@ -1,7 +1,7 @@
 import React, { useCallback, useEffect, useMemo, useState } from "react";
 
-const API_BASE = "http://localhost:4000/api/posts";
-const USERS_API_BASE = "http://localhost:4000/api/users";
+const API_BASE = "https://law-link-bd-last.vercel.app/api/posts";
+const USERS_API_BASE = "https://law-link-bd-last.vercel.app/api/users";
 
 const initialForm = {
   client: "",

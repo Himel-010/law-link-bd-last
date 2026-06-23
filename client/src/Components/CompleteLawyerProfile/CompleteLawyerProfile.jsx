@@ -175,7 +175,7 @@ const CompleteLawyerProfile = () => {
       payload.append("profileImage", formData.profileImage);
 
       const res = await fetch(
-        "http://localhost:4000/api/users/lawyer/profile/complete",
+        "https://law-link-bd-last.vercel.app/api/users/lawyer/profile/complete",
         {
           method: "PUT",
           headers: {

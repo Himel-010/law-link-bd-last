@@ -31,7 +31,7 @@ import { restoreUser } from "../../../Redux/UserSlice/UserSlice";
 import postDetailsI18n from "../../../json/postDetails.json";
 
 const normalizeApiBaseUrl = (value) => {
-  const baseUrl = String(value || "http://localhost:4000").replace(/\/+$/, "");
+  const baseUrl = String(value || "https://law-link-bd-last.vercel.app").replace(/\/+$/, "");
   return baseUrl.endsWith("/api") ? baseUrl : `${baseUrl}/api`;
 };
 

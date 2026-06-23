@@ -22,7 +22,7 @@ import { toggleLanguage } from "../../Redux/LanguageSlice/LanguageSlice";
 import { signOutSuccess, restoreUser } from "../../Redux/UserSlice/UserSlice";
 import navbarData from "../../json/navbar.json";
 
-const API_BASE_URL = "http://localhost:4000/api";
+const API_BASE_URL = "https://law-link-bd-last.vercel.app/api";
 
 const getStoredAuth = () => {
   const localUser = localStorage.getItem("currentUser");
