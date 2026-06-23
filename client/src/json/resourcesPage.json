@@ -1,0 +1,224 @@
+{
+  "en": {
+    "resourcesPage": {
+      "heroBadge": "Free Legal Documents",
+      "title": "Legal Resource Library",
+      "subtitle": "Access useful legal forms, checklists, and document resources through Google Drive. Search by topic or filter by legal category.",
+      "searchPlaceholder": "Search resources...",
+      "categoryLabel": "Category",
+      "all": "All",
+      "showingPrefix": "Showing",
+      "showingMiddle": "of",
+      "showingSuffix": "resources",
+      "openDrive": "Open Drive",
+      "download": "Download",
+      "preview": "Preview",
+      "driveFile": "Google Drive file",
+      "noResultsTitle": "No resources found",
+      "noResultsText": "Try changing your search keyword or category filter.",
+      "popularCategories": "Popular Categories",
+      "resetFilters": "Reset Filters",
+      "fileSizeUnknown": "Drive File",
+      "categories": [
+        {
+          "key": "all",
+          "label": "All"
+        },
+        {
+          "key": "employment",
+          "label": "Employment Law"
+        },
+        {
+          "key": "criminal",
+          "label": "Criminal Law"
+        },
+        {
+          "key": "immigration",
+          "label": "Immigration Law"
+        },
+        {
+          "key": "business",
+          "label": "Business Law"
+        },
+        {
+          "key": "property",
+          "label": "Property Law"
+        }
+      ],
+      "typeLabels": {
+        "template": "Template",
+        "form": "Form",
+        "checklist": "Checklist",
+        "guide": "Guide"
+      },
+      "resources": [
+        {
+          "id": 1,
+          "title": "Employment Document",
+          "categoryKey": "employment",
+          "typeKey": "template",
+          "description": "Employment-related legal document resource for contract, employee, and workplace documentation support.",
+          "format": "Drive",
+          "size": "Google Drive",
+          "icon": "Briefcase",
+          "url": "https://drive.google.com/file/d/1ApJd_OJcUkEIfhmBZyxdmBEHU3QwOBfH/view?usp=drive_link"
+        },
+        {
+          "id": 2,
+          "title": "Prosecution Form",
+          "categoryKey": "criminal",
+          "typeKey": "form",
+          "description": "A prosecution-related legal form resource for criminal law documentation and case preparation.",
+          "format": "Drive",
+          "size": "Google Drive",
+          "icon": "Scale",
+          "url": "https://drive.google.com/file/d/1CUFiLFzPZDitWTQtkaHVEUiNrLYwt32d/view?usp=drive_link"
+        },
+        {
+          "id": 3,
+          "title": "Immigration Checklist",
+          "categoryKey": "immigration",
+          "typeKey": "checklist",
+          "description": "Immigration document checklist to help applicants prepare required papers and supporting materials.",
+          "format": "Drive",
+          "size": "Google Drive",
+          "icon": "Shield",
+          "url": "https://drive.google.com/file/d/1qxmf1l7ITGni9ZrAUAqtcRTFrIrTMIwR/view?usp=drive_link"
+        },
+        {
+          "id": 4,
+          "title": "Legal Business Checklist",
+          "categoryKey": "business",
+          "typeKey": "checklist",
+          "description": "Business legal checklist for company setup, compliance, documents, and operational legal requirements.",
+          "format": "Drive",
+          "size": "Google Drive",
+          "icon": "Users",
+          "url": "https://drive.google.com/file/d/1U2W6RXdHwBrgvt3S4tEcqcTmeLwvrPhX/view?usp=drive_link"
+        },
+        {
+          "id": 5,
+          "title": "Transfer of Property",
+          "categoryKey": "property",
+          "typeKey": "form",
+          "description": "Property transfer document resource for ownership transfer, property paperwork, and related legal process support.",
+          "format": "Drive",
+          "size": "Google Drive",
+          "icon": "Home",
+          "url": "https://drive.google.com/file/d/1twdHXsB7-dQHeqWB2tCWlr7wUcLnnEQt/view?usp=drive_link"
+        }
+      ]
+    }
+  },
+  "bn": {
+    "resourcesPage": {
+      "heroBadge": "ফ্রি আইনি ডকুমেন্ট",
+      "title": "আইনি রিসোর্স লাইব্রেরি",
+      "subtitle": "Google Drive থেকে প্রয়োজনীয় আইনি ফর্ম, চেকলিস্ট এবং ডকুমেন্ট রিসোর্স দেখুন। বিষয় অনুযায়ী সার্চ করুন বা ক্যাটাগরি দিয়ে ফিল্টার করুন।",
+      "searchPlaceholder": "রিসোর্স সার্চ করুন...",
+      "categoryLabel": "ক্যাটাগরি",
+      "all": "সব",
+      "showingPrefix": "দেখানো হচ্ছে",
+      "showingMiddle": "এর মধ্যে",
+      "showingSuffix": "টি রিসোর্স",
+      "openDrive": "ড্রাইভ খুলুন",
+      "download": "ডাউনলোড",
+      "preview": "প্রিভিউ",
+      "driveFile": "Google Drive ফাইল",
+      "noResultsTitle": "কোনো রিসোর্স পাওয়া যায়নি",
+      "noResultsText": "সার্চ কীওয়ার্ড বা ক্যাটাগরি ফিল্টার পরিবর্তন করে দেখুন।",
+      "popularCategories": "জনপ্রিয় ক্যাটাগরি",
+      "resetFilters": "ফিল্টার রিসেট",
+      "fileSizeUnknown": "ড্রাইভ ফাইল",
+      "categories": [
+        {
+          "key": "all",
+          "label": "সব"
+        },
+        {
+          "key": "employment",
+          "label": "চাকরি/শ্রম আইন"
+        },
+        {
+          "key": "criminal",
+          "label": "ফৌজদারি আইন"
+        },
+        {
+          "key": "immigration",
+          "label": "ইমিগ্রেশন আইন"
+        },
+        {
+          "key": "business",
+          "label": "ব্যবসায়িক আইন"
+        },
+        {
+          "key": "property",
+          "label": "সম্পত্তি আইন"
+        }
+      ],
+      "typeLabels": {
+        "template": "টেমপ্লেট",
+        "form": "ফর্ম",
+        "checklist": "চেকলিস্ট",
+        "guide": "গাইড"
+      },
+      "resources": [
+        {
+          "id": 1,
+          "title": "এমপ্লয়মেন্ট ডকুমেন্ট",
+          "categoryKey": "employment",
+          "typeKey": "template",
+          "description": "চাকরি, কর্মী, কনট্রাক্ট এবং কর্মক্ষেত্রের ডকুমেন্টেশনের জন্য এমপ্লয়মেন্ট সম্পর্কিত আইনি রিসোর্স।",
+          "format": "Drive",
+          "size": "Google Drive",
+          "icon": "Briefcase",
+          "url": "https://drive.google.com/file/d/1ApJd_OJcUkEIfhmBZyxdmBEHU3QwOBfH/view?usp=drive_link"
+        },
+        {
+          "id": 2,
+          "title": "প্রসিকিউশন ফর্ম",
+          "categoryKey": "criminal",
+          "typeKey": "form",
+          "description": "ফৌজদারি আইন সংক্রান্ত ডকুমেন্টেশন এবং মামলা প্রস্তুতির জন্য প্রসিকিউশন ফর্ম রিসোর্স।",
+          "format": "Drive",
+          "size": "Google Drive",
+          "icon": "Scale",
+          "url": "https://drive.google.com/file/d/1CUFiLFzPZDitWTQtkaHVEUiNrLYwt32d/view?usp=drive_link"
+        },
+        {
+          "id": 3,
+          "title": "ইমিগ্রেশন চেকলিস্ট",
+          "categoryKey": "immigration",
+          "typeKey": "checklist",
+          "description": "ইমিগ্রেশন আবেদনকারীদের প্রয়োজনীয় কাগজপত্র ও সাপোর্টিং ডকুমেন্ট প্রস্তুত করতে সহায়ক চেকলিস্ট।",
+          "format": "Drive",
+          "size": "Google Drive",
+          "icon": "Shield",
+          "url": "https://drive.google.com/file/d/1qxmf1l7ITGni9ZrAUAqtcRTFrIrTMIwR/view?usp=drive_link"
+        },
+        {
+          "id": 4,
+          "title": "লিগ্যাল বিজনেস চেকলিস্ট",
+          "categoryKey": "business",
+          "typeKey": "checklist",
+          "description": "ব্যবসা শুরু, কমপ্লায়েন্স, ডকুমেন্ট এবং অপারেশনাল আইনি প্রয়োজনীয়তার জন্য বিজনেস চেকলিস্ট।",
+          "format": "Drive",
+          "size": "Google Drive",
+          "icon": "Users",
+          "url": "https://drive.google.com/file/d/1U2W6RXdHwBrgvt3S4tEcqcTmeLwvrPhX/view?usp=drive_link"
+        },
+        {
+          "id": 5,
+          "title": "সম্পত্তি হস্তান্তর",
+          "categoryKey": "property",
+          "typeKey": "form",
+          "description": "মালিকানা হস্তান্তর, সম্পত্তির কাগজপত্র এবং সংশ্লিষ্ট আইনি প্রক্রিয়ার জন্য প্রপার্টি ট্রান্সফার রিসোর্স।",
+          "format": "Drive",
+          "size": "Google Drive",
+          "icon": "Home",
+          "url": "https://drive.google.com/file/d/1twdHXsB7-dQHeqWB2tCWlr7wUcLnnEQt/view?usp=drive_link"
+        }
+      ]
+    }
+  }
+}

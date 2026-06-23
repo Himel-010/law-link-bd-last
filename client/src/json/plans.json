@@ -1,0 +1,110 @@
+{
+  "en": {
+    "plans": {
+      "roleModal": {
+        "title": "What do you want to do?",
+        "description": "Select your role first. Then we will show only the packages that match your needs.",
+        "client": {
+          "title": "I am a Client",
+          "label": "Client Plans",
+          "description": "Post cases, shortlist lawyers, and manage legal support.",
+          "button": "View Client Plans"
+        },
+        "lawyer": {
+          "title": "I am a Lawyer",
+          "label": "Lawyer Plans",
+          "description": "Send proposals, boost profile, and unlock premium features.",
+          "button": "View Lawyer Plans"
+        }
+      },
+      "header": {
+        "clientBadge": "Client Packages",
+        "lawyerBadge": "Lawyer Packages",
+        "title": "Choose Your Package",
+        "descriptionPrefix": "Showing packages only for",
+        "descriptionSuffix": "Select the package that fits your needs.",
+        "changeRole": "Change Role"
+      },
+      "card": {
+        "clientPlan": "Client Plan",
+        "lawyerPlan": "Lawyer Plan",
+        "active": "Active",
+        "defaultDescription": "Flexible plan with role-based benefits.",
+        "free": "Free",
+        "duration": "Duration",
+        "days": "Days",
+        "role": "Role",
+        "includedFeatures": "Included Features",
+        "items": "items",
+        "yes": "Yes",
+        "no": "No",
+        "unlimited": "Unlimited",
+        "noFeatures": "No active features listed for this package.",
+        "moreFeaturesPrefix": "+",
+        "moreFeaturesSuffix": "more features",
+        "choosePackage": "Choose Package"
+      },
+      "states": {
+        "loading": "Loading packages...",
+        "errorTitle": "Could not load packages",
+        "errorMessage": "Failed to load packages",
+        "emptyTitle": "No packages found.",
+        "emptyDescription": "Try selecting another role."
+      }
+    }
+  },
+  "bn": {
+    "plans": {
+      "roleModal": {
+        "title": "আপনি কী করতে চান?",
+        "description": "প্রথমে আপনার ভূমিকা নির্বাচন করুন। এরপর আমরা শুধু আপনার প্রয়োজন অনুযায়ী প্যাকেজগুলো দেখাবো।",
+        "client": {
+          "title": "আমি একজন ক্লায়েন্ট",
+          "label": "ক্লায়েন্ট প্ল্যান",
+          "description": "কেস পোস্ট করুন, আইনজীবী শর্টলিস্ট করুন এবং আইনি সহায়তা পরিচালনা করুন।",
+          "button": "ক্লায়েন্ট প্ল্যান দেখুন"
+        },
+        "lawyer": {
+          "title": "আমি একজন আইনজীবী",
+          "label": "আইনজীবী প্ল্যান",
+          "description": "প্রস্তাব পাঠান, প্রোফাইল বুস্ট করুন এবং প্রিমিয়াম সুবিধা ব্যবহার করুন।",
+          "button": "আইনজীবী প্ল্যান দেখুন"
+        }
+      },
+      "header": {
+        "clientBadge": "ক্লায়েন্ট প্যাকেজ",
+        "lawyerBadge": "আইনজীবী প্যাকেজ",
+        "title": "আপনার প্যাকেজ নির্বাচন করুন",
+        "descriptionPrefix": "শুধুমাত্র এই ভূমিকার প্যাকেজ দেখানো হচ্ছে:",
+        "descriptionSuffix": "আপনার প্রয়োজন অনুযায়ী প্যাকেজ নির্বাচন করুন।",
+        "changeRole": "ভূমিকা পরিবর্তন করুন"
+      },
+      "card": {
+        "clientPlan": "ক্লায়েন্ট প্ল্যান",
+        "lawyerPlan": "আইনজীবী প্ল্যান",
+        "active": "সক্রিয়",
+        "defaultDescription": "ভূমিকা অনুযায়ী সুবিধাসহ একটি নমনীয় প্ল্যান।",
+        "free": "ফ্রি",
+        "duration": "মেয়াদ",
+        "days": "দিন",
+        "role": "ভূমিকা",
+        "includedFeatures": "অন্তর্ভুক্ত সুবিধা",
+        "items": "টি",
+        "yes": "হ্যাঁ",
+        "no": "না",
+        "unlimited": "আনলিমিটেড",
+        "noFeatures": "এই প্যাকেজের জন্য কোনো সক্রিয় সুবিধা তালিকাভুক্ত নেই।",
+        "moreFeaturesPrefix": "+",
+        "moreFeaturesSuffix": "টি আরও সুবিধা",
+        "choosePackage": "প্যাকেজ নির্বাচন করুন"
+      },
+      "states": {
+        "loading": "প্যাকেজ লোড হচ্ছে...",
+        "errorTitle": "প্যাকেজ লোড করা যায়নি",
+        "errorMessage": "প্যাকেজ লোড করতে ব্যর্থ হয়েছে",
+        "emptyTitle": "কোনো প্যাকেজ পাওয়া যায়নি।",
+        "emptyDescription": "অন্য ভূমিকা নির্বাচন করে দেখুন।"
+      }
+    }
+  }
+}

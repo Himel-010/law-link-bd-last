@@ -1,0 +1,194 @@
+{
+  "en": {
+    "carousel": {
+      "slides": [
+        {
+          "title": "Expert Legal Consultation",
+          "subtitle": "Connect with qualified lawyers for your legal needs"
+        },
+        {
+          "title": "Professional Legal Services",
+          "subtitle": "Get the justice you deserve with our expert team"
+        },
+        {
+          "title": "Accessible Legal Aid",
+          "subtitle": "Making legal services available to everyone"
+        },
+        {
+          "title": "Trusted Legal Partners",
+          "subtitle": "Work with verified and experienced legal professionals"
+        },
+        {
+          "title": "Document Verification",
+          "subtitle": "Secure and transparent legal document processing"
+        }
+      ],
+      "platformName": "LawLinkBD",
+      "buttons": {
+        "submitCase": "Submit Your Case",
+        "watchDemo": "Watch Demo"
+      },
+      "stats": {
+        "casesResolved": "Cases Resolved",
+        "volunteerLawyers": "Volunteer Lawyers",
+        "successRate": "Success Rate"
+      }
+    },
+    "features": {
+      "sectionTitle": "Comprehensive Legal Aid Platform",
+      "sectionDesc": "Our platform offers a complete suite of tools to connect you with legal help, track your case progress, and access essential legal resources.",
+      "items": [
+        {
+          "title": "Case Submission Form",
+          "desc": "Submit your case details and upload evidence for professional review by qualified lawyers."
+        },
+        {
+          "title": "Automated Lawyer Matching",
+          "desc": "Get matched with volunteer lawyers based on your case type and location automatically."
+        },
+        {
+          "title": "Verified Lawyer Profiles",
+          "desc": "Access profiles of verified lawyers with their areas of expertise and experience."
+        },
+        {
+          "title": "Legal Resource Library",
+          "desc": "Free access to important legal documents, templates, and comprehensive guides."
+        },
+        {
+          "title": "Case Progress Tracker",
+          "desc": "Real-time updates on your case status, deadlines, and important milestones."
+        },
+        {
+          "title": "SMS/Email Updates",
+          "desc": "Automated notifications to keep you updated on all case developments."
+        },
+        {
+          "title": "Multi-Language Support",
+          "desc": "Platform available in multiple languages including Bangla for broader accessibility."
+        },
+        {
+          "title": "Document Verification",
+          "desc": "Transparent, tamper-proof system for land verification and legal document authentication."
+        }
+      ]
+    },
+    "lawyers": {
+      "sectionTitle": "Meet Our Volunteer Lawyers",
+      "sectionDesc": "Connect with experienced, verified lawyers who are committed to providing quality legal assistance to those who need it most.",
+      "button": "Connect Now"
+    },
+    "testimonials": {
+      "sectionTitle": "Success Stories",
+      "sectionDesc": "Real people sharing their experiences with our legal aid platform"
+    },
+    "faqs": {
+      "sectionTitle": "Frequently Asked Questions",
+      "sectionDesc": "Get answers to common questions about our legal aid platform",
+      "contactBtn": "Contact Support"
+    },
+    "callToAction": {
+      "sectionTitle": "Ready to Get Legal Help?",
+      "sectionDesc": "Join thousands of people who have found justice through our platform. Submit your case today and get matched with a qualified lawyer.",
+      "buttons": {
+        "submitCase": "Submit Your Case",
+        "browseLawyers": "Browse Lawyers"
+      }
+    }
+  },
+  "bn": {
+    "carousel": {
+      "slides": [
+        {
+          "title": "বিশেষজ্ঞ আইনি পরামর্শ",
+          "subtitle": "আপনার আইনি প্রয়োজনের জন্য যোগ্য আইনজীবীদের সাথে সংযুক্ত হোন"
+        },
+        {
+          "title": "পেশাদার আইনি সেবা",
+          "subtitle": "আমাদের বিশেষজ্ঞ দলের মাধ্যমে আপনার ন্যায় পান"
+        },
+        {
+          "title": "সুবিধাজনক আইনি সহায়তা",
+          "subtitle": "সকলের জন্য আইনি সেবা সহজলভ্য করা"
+        },
+        {
+          "title": "বিশ্বাসযোগ্য আইনি অংশীদার",
+          "subtitle": "যাচাই করা এবং অভিজ্ঞ আইনজীবীদের সাথে কাজ করুন"
+        },
+        {
+          "title": "ডকুমেন্ট যাচাই",
+          "subtitle": "নিরাপদ এবং স্বচ্ছ আইনি ডকুমেন্ট প্রক্রিয়াকরণ"
+        }
+      ],
+      "platformName": "LawLinkBD",
+      "buttons": {
+        "submitCase": "আপনার মামলা জমা দিন",
+        "watchDemo": "ডেমো দেখুন"
+      },
+      "stats": {
+        "casesResolved": "মামলা সমাধান",
+        "volunteerLawyers": "স্বেচ্ছাসেবী আইনজীবী",
+        "successRate": "সফলতার হার"
+      }
+    },
+    "features": {
+      "sectionTitle": "সম্পূর্ণ আইনি সহায়তা প্ল্যাটফর্ম",
+      "sectionDesc": "আমাদের প্ল্যাটফর্ম আইনি সহায়তার সাথে সংযুক্ত হওয়া, আপনার মামলার অগ্রগতি ট্র্যাক করা এবং প্রয়োজনীয় আইনি রিসোর্সে অ্যাক্সেস দেওয়ার জন্য একটি পূর্ণাঙ্গ সরঞ্জাম সরবরাহ করে।",
+      "items": [
+        {
+          "title": "মামলা জমা ফর্ম",
+          "desc": "আপনার মামলা বিবরণ জমা দিন এবং প্রমাণ আপলোড করুন যাতে যোগ্য আইনজীবীরা পেশাদারভাবে পর্যালোচনা করতে পারেন।"
+        },
+        {
+          "title": "স্বয়ংক্রিয় আইনজীবী মিল",
+          "desc": "আপনার মামলা ধরনের এবং অবস্থান অনুযায়ী স্বেচ্ছাসেবী আইনজীবীদের সাথে স্বয়ংক্রিয়ভাবে মেলানো।"
+        },
+        {
+          "title": "যাচাইকৃত আইনজীবী প্রোফাইল",
+          "desc": "যাচাইকৃত আইনজীবীদের প্রোফাইল, তাদের দক্ষতা এবং অভিজ্ঞতার সাথে অ্যাক্সেস করুন।"
+        },
+        {
+          "title": "আইনি রিসোর্স লাইব্রেরি",
+          "desc": "গুরুত্বপূর্ণ আইনি ডকুমেন্ট, টেমপ্লেট এবং পূর্ণাঙ্গ গাইডে বিনামূল্যে অ্যাক্সেস।"
+        },
+        {
+          "title": "মামলার অগ্রগতি ট্র্যাকার",
+          "desc": "আপনার মামলার অবস্থা, সময়সীমা এবং গুরুত্বপূর্ণ মাইলস্টোনের রিয়েল-টাইম আপডেট।"
+        },
+        {
+          "title": "এসএমএস / ইমেইল আপডেট",
+          "desc": "সব মামলার অগ্রগতিতে আপনাকে আপডেট রাখতে স্বয়ংক্রিয় বিজ্ঞপ্তি।"
+        },
+        {
+          "title": "বহুভাষী সহায়তা",
+          "desc": "বিস্তৃত প্রবেশাধিকার জন্য বাংলা সহ বহু ভাষায় প্ল্যাটফর্ম উপলব্ধ।"
+        },
+        {
+          "title": "ডকুমেন্ট যাচাই",
+          "desc": "ভূমি যাচাই এবং আইনি ডকুমেন্ট প্রমাণীকরণের জন্য স্বচ্ছ, পরিবর্তন-প্রতিরোধক সিস্টেম।"
+        }
+      ]
+    },
+    "lawyers": {
+      "sectionTitle": "আমাদের স্বেচ্ছাসেবী আইনজীবীদের সাথে পরিচিত হন",
+      "sectionDesc": "অভিজ্ঞ, যাচাইকৃত আইনজীবীদের সাথে সংযুক্ত হোন যারা প্রয়োজনমতো মানসম্মত আইনি সহায়তা প্রদান করতে প্রতিশ্রুতিবদ্ধ।",
+      "button": "এখন সংযুক্ত হন"
+    },
+    "testimonials": {
+      "sectionTitle": "সাফল্যের গল্প",
+      "sectionDesc": "বাস্তব মানুষরা আমাদের আইনি সহায়তা প্ল্যাটফর্মের সাথে তাদের অভিজ্ঞতা শেয়ার করছেন"
+    },
+    "faqs": {
+      "sectionTitle": "সর্বাধিক জিজ্ঞাসিত প্রশ্ন",
+      "sectionDesc": "আমাদের আইনি সহায়তা প্ল্যাটফর্ম সম্পর্কিত সাধারণ প্রশ্নের উত্তর পান",
+      "contactBtn": "সাপোর্টের সাথে যোগাযোগ করুন"
+    },
+    "callToAction": {
+      "sectionTitle": "আইনি সহায়তা নিতে প্রস্তুত?",
+      "sectionDesc": "হাজার হাজার মানুষ যারা আমাদের প্ল্যাটফর্মের মাধ্যমে ন্যায় পেয়েছে, তাদের সাথে যোগ দিন। আজই আপনার মামলা জমা দিন এবং যোগ্য আইনজীবীর সাথে মেলান।",
+      "buttons": {
+        "submitCase": "আপনার মামলা জমা দিন",
+        "browseLawyers": "আইনজীবী দেখুন"
+      }
+    }
+  }
+}

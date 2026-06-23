@@ -1,0 +1,244 @@
+{
+  "en": {
+    "lawyerDetails": {
+      "fallback": {
+        "initial": "L",
+        "notAvailable": "-",
+        "notSet": "Not set",
+        "lockedByPlan": "Locked by plan",
+        "lawyerProfile": "Lawyer Profile",
+        "lawyerProfileAlt": "Lawyer profile",
+        "legalConsultant": "Legal Consultant",
+        "noBio": "This lawyer has not added a detailed bio yet.",
+        "noProfessionalSummary": "No detailed professional summary has been added yet.",
+        "cityLocked": "City locked",
+        "cityNotSet": "City not set",
+        "feeNotSet": "Not set",
+        "noSlotSelected": "No slot selected",
+        "selectedLawyer": "Selected Lawyer"
+      },
+      "consultationTypes": {
+        "online": "Online",
+        "phone": "Phone",
+        "inPerson": "In Person"
+      },
+      "slotStatus": {
+        "booked": "Booked",
+        "pending": "Pending",
+        "blocked": "Blocked",
+        "available": "Available",
+        "unavailable": "Unavailable"
+      },
+      "dateErrors": {
+        "required": "Start date and end date are required.",
+        "invalid": "Invalid date range.",
+        "startAfterEnd": "Start date cannot be after end date."
+      },
+      "api": {
+        "genericError": "Something went wrong. Please try again.",
+        "failedLoadLawyer": "Failed to load lawyer details",
+        "failedLoadSlots": "Failed to load appointment slots",
+        "failedBook": "Failed to book appointment"
+      },
+      "loading": {
+        "lawyerProfile": "Loading lawyer profile...",
+        "availableSlots": "Loading available appointment slots..."
+      },
+      "errorState": {
+        "title": "Failed to load lawyer profile",
+        "backButton": "Back to Lawyers"
+      },
+      "buttons": {
+        "backToLawyers": "Back to Lawyers",
+        "loadSlots": "Load Slots",
+        "bookAppointment": "Book Appointment",
+        "bookingAppointment": "Booking Appointment...",
+        "continueBrowsing": "Continue Browsing",
+        "viewMyBookings": "View My Bookings"
+      },
+      "hero": {
+        "verifiedLawyer": "Verified Lawyer",
+        "phoneVerified": "Phone Verified",
+        "yearsExperience": "Years Experience",
+        "feePrefix": "Fee:"
+      },
+      "stats": {
+        "availableDays": "Available Days",
+        "openSlots": "Open Slots",
+        "bookedPending": "Booked / Pending"
+      },
+      "profileDetails": {
+        "title": "Profile Details",
+        "subtitle": "Important lawyer information for client review.",
+        "name": "Name",
+        "specialization": "Specialization",
+        "experience": "Experience",
+        "consultationFee": "Consultation Fee",
+        "city": "City",
+        "officeAddress": "Office Address",
+        "years": "Years"
+      },
+      "about": {
+        "title": "About Lawyer",
+        "subtitle": "Background and practice focus."
+      },
+      "calendar": {
+        "title": "Appointment Calendar",
+        "subtitle": "Select an available slot. Booked or pending slots are disabled.",
+        "nextDays": "Next {days} Days",
+        "emptyTitle": "No appointment slots found",
+        "emptyDescription": "This lawyer has not added available slots in this date range. Try another date range or check again later.",
+        "activeDay": "Active Day",
+        "inactive": "Inactive",
+        "openSlots": "{count} Open Slots"
+      },
+      "booking": {
+        "title": "Book Appointment",
+        "subtitle": "Choose a slot from the calendar and confirm your booking.",
+        "selectedSlot": "Selected Slot",
+        "consultationType": "Consultation Type",
+        "subject": "Subject *",
+        "subjectPlaceholder": "Example: Need consultation about property case",
+        "message": "Message",
+        "messagePlaceholder": "Write short details about your case...",
+        "info": "Once a client books a slot, it becomes unavailable for other clients automatically.",
+        "loginRequired": "Please login first to book an appointment.",
+        "clientOnly": "Only client accounts can book appointments.",
+        "selectSlot": "Please select an available appointment slot.",
+        "unsupportedConsultation": "Selected slot does not support this consultation type.",
+        "subjectRequired": "Please write appointment subject.",
+        "successTitle": "Appointment Booked Successfully",
+        "successMessage": "Appointment booked successfully. The selected slot is now reserved."
+      },
+      "successModal": {
+        "lawyer": "Lawyer",
+        "date": "Date",
+        "time": "Time",
+        "consultation": "Consultation",
+        "subject": "Subject",
+        "message": "Message"
+      }
+    }
+  },
+  "bn": {
+    "lawyerDetails": {
+      "fallback": {
+        "initial": "ল",
+        "notAvailable": "-",
+        "notSet": "সেট করা নেই",
+        "lockedByPlan": "প্ল্যান দ্বারা লক করা",
+        "lawyerProfile": "আইনজীবীর প্রোফাইল",
+        "lawyerProfileAlt": "আইনজীবীর প্রোফাইল",
+        "legalConsultant": "লিগ্যাল কনসালটেন্ট",
+        "noBio": "এই আইনজীবী এখনো বিস্তারিত বায়ো যোগ করেননি।",
+        "noProfessionalSummary": "এখনো কোনো বিস্তারিত পেশাগত সারাংশ যোগ করা হয়নি।",
+        "cityLocked": "শহর লক করা",
+        "cityNotSet": "শহর সেট করা নেই",
+        "feeNotSet": "সেট করা নেই",
+        "noSlotSelected": "কোনো স্লট নির্বাচন করা হয়নি",
+        "selectedLawyer": "নির্বাচিত আইনজীবী"
+      },
+      "consultationTypes": {
+        "online": "অনলাইন",
+        "phone": "ফোন",
+        "inPerson": "সরাসরি"
+      },
+      "slotStatus": {
+        "booked": "বুকড",
+        "pending": "পেন্ডিং",
+        "blocked": "ব্লকড",
+        "available": "উপলব্ধ",
+        "unavailable": "উপলব্ধ নয়"
+      },
+      "dateErrors": {
+        "required": "শুরুর তারিখ এবং শেষ তারিখ প্রয়োজন।",
+        "invalid": "তারিখের রেঞ্জ সঠিক নয়।",
+        "startAfterEnd": "শুরুর তারিখ শেষ তারিখের পরে হতে পারে না।"
+      },
+      "api": {
+        "genericError": "কিছু ভুল হয়েছে। আবার চেষ্টা করুন।",
+        "failedLoadLawyer": "আইনজীবীর বিস্তারিত লোড করা যায়নি",
+        "failedLoadSlots": "অ্যাপয়েন্টমেন্ট স্লট লোড করা যায়নি",
+        "failedBook": "অ্যাপয়েন্টমেন্ট বুক করা যায়নি"
+      },
+      "loading": {
+        "lawyerProfile": "আইনজীবীর প্রোফাইল লোড হচ্ছে...",
+        "availableSlots": "উপলব্ধ অ্যাপয়েন্টমেন্ট স্লট লোড হচ্ছে..."
+      },
+      "errorState": {
+        "title": "আইনজীবীর প্রোফাইল লোড করা যায়নি",
+        "backButton": "আইনজীবীদের তালিকায় ফিরে যান"
+      },
+      "buttons": {
+        "backToLawyers": "আইনজীবীদের তালিকায় ফিরে যান",
+        "loadSlots": "স্লট লোড করুন",
+        "bookAppointment": "অ্যাপয়েন্টমেন্ট বুক করুন",
+        "bookingAppointment": "অ্যাপয়েন্টমেন্ট বুক হচ্ছে...",
+        "continueBrowsing": "ব্রাউজ চালিয়ে যান",
+        "viewMyBookings": "আমার বুকিং দেখুন"
+      },
+      "hero": {
+        "verifiedLawyer": "ভেরিফায়েড আইনজীবী",
+        "phoneVerified": "ফোন ভেরিফায়েড",
+        "yearsExperience": "বছরের অভিজ্ঞতা",
+        "feePrefix": "ফি:"
+      },
+      "stats": {
+        "availableDays": "উপলব্ধ দিন",
+        "openSlots": "খোলা স্লট",
+        "bookedPending": "বুকড / পেন্ডিং"
+      },
+      "profileDetails": {
+        "title": "প্রোফাইল বিস্তারিত",
+        "subtitle": "ক্লায়েন্ট রিভিউর জন্য গুরুত্বপূর্ণ আইনজীবীর তথ্য।",
+        "name": "নাম",
+        "specialization": "বিশেষায়ন",
+        "experience": "অভিজ্ঞতা",
+        "consultationFee": "কনসালটেশন ফি",
+        "city": "শহর",
+        "officeAddress": "অফিস ঠিকানা",
+        "years": "বছর"
+      },
+      "about": {
+        "title": "আইনজীবী সম্পর্কে",
+        "subtitle": "ব্যাকগ্রাউন্ড এবং প্র্যাকটিস ফোকাস।"
+      },
+      "calendar": {
+        "title": "অ্যাপয়েন্টমেন্ট ক্যালেন্ডার",
+        "subtitle": "একটি উপলব্ধ স্লট নির্বাচন করুন। বুকড বা পেন্ডিং স্লটগুলো বন্ধ থাকবে।",
+        "nextDays": "পরবর্তী {days} দিন",
+        "emptyTitle": "কোনো অ্যাপয়েন্টমেন্ট স্লট পাওয়া যায়নি",
+        "emptyDescription": "এই তারিখের রেঞ্জে আইনজীবী কোনো উপলব্ধ স্লট যোগ করেননি। অন্য তারিখ চেষ্টা করুন বা পরে আবার দেখুন।",
+        "activeDay": "অ্যাকটিভ দিন",
+        "inactive": "ইনঅ্যাকটিভ",
+        "openSlots": "{count} খোলা স্লট"
+      },
+      "booking": {
+        "title": "অ্যাপয়েন্টমেন্ট বুক করুন",
+        "subtitle": "ক্যালেন্ডার থেকে একটি স্লট নির্বাচন করে বুকিং কনফার্ম করুন।",
+        "selectedSlot": "নির্বাচিত স্লট",
+        "consultationType": "কনসালটেশন টাইপ",
+        "subject": "বিষয় *",
+        "subjectPlaceholder": "উদাহরণ: সম্পত্তি মামলার বিষয়ে পরামর্শ দরকার",
+        "message": "মেসেজ",
+        "messagePlaceholder": "আপনার মামলার সংক্ষিপ্ত বিবরণ লিখুন...",
+        "info": "একজন ক্লায়েন্ট স্লট বুক করলে সেটি স্বয়ংক্রিয়ভাবে অন্য ক্লায়েন্টদের জন্য অনুপলব্ধ হয়ে যাবে।",
+        "loginRequired": "অ্যাপয়েন্টমেন্ট বুক করতে আগে লগইন করুন।",
+        "clientOnly": "শুধু ক্লায়েন্ট অ্যাকাউন্ট অ্যাপয়েন্টমেন্ট বুক করতে পারে।",
+        "selectSlot": "দয়া করে একটি উপলব্ধ অ্যাপয়েন্টমেন্ট স্লট নির্বাচন করুন।",
+        "unsupportedConsultation": "নির্বাচিত স্লট এই কনসালটেশন টাইপ সাপোর্ট করে না।",
+        "subjectRequired": "দয়া করে অ্যাপয়েন্টমেন্টের বিষয় লিখুন।",
+        "successTitle": "অ্যাপয়েন্টমেন্ট সফলভাবে বুক হয়েছে",
+        "successMessage": "অ্যাপয়েন্টমেন্ট সফলভাবে বুক হয়েছে। নির্বাচিত স্লটটি এখন রিজার্ভড।"
+      },
+      "successModal": {
+        "lawyer": "আইনজীবী",
+        "date": "তারিখ",
+        "time": "সময়",
+        "consultation": "কনসালটেশন",
+        "subject": "বিষয়",
+        "message": "মেসেজ"
+      }
+    }
+  }
+}

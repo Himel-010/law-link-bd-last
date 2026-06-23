@@ -1,0 +1,127 @@
+{
+  "en": {
+    "footer": {
+      "brand": {
+        "name": "LegalAid",
+        "description": "Connecting underserved communities with qualified volunteer lawyers to ensure access to justice for everyone. Our platform makes legal help accessible, transparent, and effective."
+      },
+
+      "contact": {
+        "email": "support@legalaid.com",
+        "phone": "+1 (555) 123-4567",
+        "address": "123 Justice Street, Legal City, LC 12345"
+      },
+
+      "sections": {
+        "quickLinks": {
+          "title": "Quick Links",
+          "items": {
+            "home": "Home",
+            "findLawyers": "Find Lawyers",
+            "submitCase": "Submit Case",
+            "resources": "Resources",
+            "aboutUs": "About Us"
+          }
+        },
+        "legalServices": {
+          "title": "Legal Services",
+          "items": {
+            "familyLaw": "Family Law",
+            "propertyLaw": "Property Law",
+            "immigration": "Immigration",
+            "criminalDefense": "Criminal Defense",
+            "civilRights": "Civil Rights"
+          }
+        },
+        "resources": {
+          "title": "Resources",
+          "items": {
+            "legalDocuments": "Legal Documents",
+            "faq": "FAQ",
+            "blog": "Blog",
+            "caseStudies": "Case Studies",
+            "legalGuides": "Legal Guides"
+          }
+        },
+        "support": {
+          "title": "Support",
+          "items": {
+            "helpCenter": "Help Center",
+            "contactUs": "Contact Us",
+            "privacyPolicy": "Privacy Policy",
+            "termsOfService": "Terms of Service",
+            "accessibility": "Accessibility"
+          }
+        }
+      },
+
+      "bottom": {
+        "copyright":
+          "© 2025 LegalAid Platform. All rights reserved. | Making justice accessible to everyone."
+      }
+    }
+  },
+
+  "bn": {
+    "footer": {
+      "brand": {
+        "name": "লিগ্যালএইড",
+        "description": "ন্যায়বিচার সবার জন্য নিশ্চিত করতে যোগ্য স্বেচ্ছাসেবী আইনজীবীদের সাথে সুবিধাবঞ্চিত জনগোষ্ঠীকে সংযুক্ত করছি। আমাদের প্ল্যাটফর্ম আইনি সহায়তাকে সহজ, স্বচ্ছ এবং কার্যকর করে তোলে।"
+      },
+
+      "contact": {
+        "email": "support@legalaid.com",
+        "phone": "+1 (555) 123-4567",
+        "address": "১২৩ জাস্টিস স্ট্রিট, লিগ্যাল সিটি, এলসি ১২৩৪৫"
+      },
+
+      "sections": {
+        "quickLinks": {
+          "title": "দ্রুত লিংক",
+          "items": {
+            "home": "হোম",
+            "findLawyers": "আইনজীবী খুঁজুন",
+            "submitCase": "কেস জমা দিন",
+            "resources": "রিসোর্স",
+            "aboutUs": "আমাদের সম্পর্কে"
+          }
+        },
+        "legalServices": {
+          "title": "আইনি সেবা",
+          "items": {
+            "familyLaw": "পারিবারিক আইন",
+            "propertyLaw": "সম্পত্তি আইন",
+            "immigration": "ইমিগ্রেশন",
+            "criminalDefense": "ফৌজদারি প্রতিরক্ষা",
+            "civilRights": "নাগরিক অধিকার"
+          }
+        },
+        "resources": {
+          "title": "রিসোর্স",
+          "items": {
+            "legalDocuments": "আইনি ডকুমেন্ট",
+            "faq": "প্রশ্নোত্তর",
+            "blog": "ব্লগ",
+            "caseStudies": "কেস স্টাডি",
+            "legalGuides": "আইনি গাইড"
+          }
+        },
+        "support": {
+          "title": "সহায়তা",
+          "items": {
+            "helpCenter": "হেল্প সেন্টার",
+            "contactUs": "যোগাযোগ করুন",
+            "privacyPolicy": "প্রাইভেসি পলিসি",
+            "termsOfService": "সার্ভিস শর্তাবলী",
+            "accessibility": "অ্যাক্সেসিবিলিটি"
+          }
+        }
+      },
+
+      "bottom": {
+        "copyright":
+          "© ২০২৫ লিগ্যালএইড প্ল্যাটফর্ম। সর্বস্বত্ব সংরক্ষিত। | সবার জন্য ন্যায়বিচার নিশ্চিত করছি।"
+      }
+    }
+  }
+}

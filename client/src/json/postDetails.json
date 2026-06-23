@@ -1,0 +1,332 @@
+{
+  "en": {
+    "postDetails": {
+      "common": {
+        "notAvailable": "Not available",
+        "notSpecified": "Not specified",
+        "somethingWrong": "Something went wrong",
+        "goBack": "Go Back",
+        "tryAgain": "Try Again",
+        "refresh": "Refresh",
+        "backToPosts": "Back to Posts",
+        "cancel": "Cancel",
+        "sending": "Sending...",
+        "characters": "characters",
+        "emailHidden": "Email hidden",
+        "unknownClient": "Unknown Client",
+        "untitledCase": "Untitled Case",
+        "noDescription": "No description provided."
+      },
+      "budget": {
+        "notSpecified": "Budget not specified",
+        "upTo": "Up to",
+        "from": "From"
+      },
+      "status": {
+        "open": "Open",
+        "in_progress": "In Progress",
+        "closed": "Closed",
+        "cancelled": "Cancelled",
+        "accepted": "Accepted",
+        "pending": "Pending",
+        "rejected": "Rejected"
+      },
+      "urgency": {
+        "high": "High urgency",
+        "medium": "Medium urgency",
+        "low": "Low urgency"
+      },
+      "category": {
+        "family": "Family",
+        "criminal": "Criminal",
+        "property": "Property",
+        "corporate": "Corporate",
+        "civil": "Civil",
+        "tax": "Tax",
+        "labour": "Labour",
+        "cyber": "Cyber",
+        "immigration": "Immigration",
+        "other": "Other",
+        "legalPost": "Legal Post"
+      },
+      "badges": {
+        "priorityCase": "Priority Case"
+      },
+      "messages": {
+        "failedFetchPostDetails": "Failed to fetch post details",
+        "failedConnectionRequest": "Failed to send connection request",
+        "failedProposal": "Failed to send proposal",
+        "connectionRequestSent": "Connection request sent successfully",
+        "proposalSent": "Proposal sent successfully",
+        "pleaseLoginFirst": "Please login first",
+        "onlyLawyersRequest": "Only lawyers can send connection request",
+        "onlyLawyersProposal": "Only lawyers can send proposal",
+        "activeSubscriptionRequest": "You need an active subscription to send connection request",
+        "activeSubscriptionProposal": "You need an active subscription to send proposal",
+        "clientInfoNotFound": "Client information not found",
+        "connectionRequiredBeforeProposal": "Client must accept your connection request before proposal",
+        "proposalFieldsRequired": "Proposed fee, estimated days and message are required"
+      },
+      "actionStates": {
+        "loginRequestLabel": "Login to Send Request",
+        "loginRequestReason": "Please login as lawyer to send connection request.",
+        "onlyLawyerRequestLabel": "Only Lawyer Can Request",
+        "onlyLawyerRequestReason": "Only lawyers can send connection requests to clients.",
+        "requestClosedLabel": "Request Closed",
+        "requestClosedReason": "Connection request is available only for open posts.",
+        "upgradeRequired": "Upgrade Required",
+        "upgradeRequestReason": "You need an active subscription to send connection request.",
+        "connectionAccepted": "Connection Accepted",
+        "requestPending": "Request Pending",
+        "requestRejected": "Request Rejected",
+        "requestExists": "Request Exists",
+        "connectionStatus": "Connection status",
+        "sendConnectionRequest": "Send Connection Request",
+        "loginProposalLabel": "Login to Send Proposal",
+        "loginProposalReason": "Please login as lawyer to send proposal.",
+        "onlyLawyerProposalLabel": "Only Lawyer Can Send Proposal",
+        "onlyLawyerProposalReason": "Clients can view case details, but only lawyers can send proposals.",
+        "proposalClosedLabel": "Proposal Closed",
+        "proposalClosedReason": "Proposal is available only for open posts.",
+        "upgradeProposalReason": "You need an active subscription to send proposal.",
+        "connectionRequired": "Connection Required",
+        "connectionRequiredReason": "Client must accept your connection request before you can send proposal.",
+        "proposalAlreadySent": "Proposal Already Sent",
+        "proposalAlreadySentReason": "You already sent a proposal to this post.",
+        "sendProposal": "Send Proposal"
+      },
+      "loading": {
+        "caseDetails": "Loading case details...",
+        "checkingConnection": "Checking connection..."
+      },
+      "errorState": {
+        "title": "Case details not found"
+      },
+      "intro": {
+        "instruction": "Lawyers must send a connection request first. After the client accepts it, the proposal option becomes available."
+      },
+      "sections": {
+        "descriptionTitle": "Case Description",
+        "descriptionSubtitle": "Client provided case details.",
+        "documentsTitle": "Documents",
+        "documentsSubtitle": "Files or references attached by client.",
+        "document": "Document",
+        "noDocuments": "No documents attached.",
+        "proposalActivityTitle": "Proposal Activity",
+        "proposalActivitySubtitle": "Total submitted proposals for this post.",
+        "totalProposals": "Total proposals",
+        "acceptedProposal": "This case has an accepted proposal.",
+        "noAcceptedProposal": "No proposal has been accepted yet."
+      },
+      "summary": {
+        "title": "Case Summary",
+        "subtitle": "Important case information.",
+        "budget": "Budget",
+        "location": "Location",
+        "posted": "Posted",
+        "updated": "Updated"
+      },
+      "clientInfo": {
+        "title": "Client Information",
+        "subtitle": "Basic public client info.",
+        "protectedContact": "Platform protected contact"
+      },
+      "lawyerBox": {
+        "step1Title": "Step 1: Connection Request",
+        "step2Title": "Step 2: Send Proposal",
+        "step1Subtitle": "Send request first. Proposal unlocks after approval.",
+        "step2Subtitle": "Client accepted your request. You can now send proposal.",
+        "waitingApproval": "Waiting for client approval. Proposal button will unlock after acceptance."
+      },
+      "loginBox": {
+        "title": "Want to respond to this case?",
+        "description": "Login as a lawyer to send connection request and proposal.",
+        "button": "Go to Login"
+      },
+      "requestModal": {
+        "badge": "Connection Request",
+        "title": "Request Client Connection",
+        "subtitle": "After the client accepts, you can send a proposal.",
+        "messageLabel": "Request Message",
+        "messagePlaceholder": "Example: Hello, I reviewed your case and would like to connect to discuss how I can help.",
+        "sendButton": "Send Request"
+      },
+      "proposalModal": {
+        "badge": "Send Proposal",
+        "subtitle": "Submit your legal service proposal to the client.",
+        "feeLabel": "Proposed Fee",
+        "feePlaceholder": "Example: 5000",
+        "daysLabel": "Estimated Days",
+        "daysPlaceholder": "Example: 7",
+        "messageLabel": "Proposal Message",
+        "messagePlaceholder": "Write your proposal, experience, service plan, and why the client should choose you...",
+        "sendButton": "Send Proposal"
+      }
+    }
+  },
+  "bn": {
+    "postDetails": {
+      "common": {
+        "notAvailable": "তথ্য পাওয়া যায়নি",
+        "notSpecified": "উল্লেখ করা হয়নি",
+        "somethingWrong": "কিছু ভুল হয়েছে",
+        "goBack": "ফিরে যান",
+        "tryAgain": "আবার চেষ্টা করুন",
+        "refresh": "রিফ্রেশ",
+        "backToPosts": "পোস্ট তালিকায় ফিরুন",
+        "cancel": "বাতিল",
+        "sending": "পাঠানো হচ্ছে...",
+        "characters": "অক্ষর",
+        "emailHidden": "ইমেইল গোপন রাখা হয়েছে",
+        "unknownClient": "অজানা ক্লায়েন্ট",
+        "untitledCase": "শিরোনামহীন মামলা",
+        "noDescription": "কোনো বিবরণ দেওয়া হয়নি।"
+      },
+      "budget": {
+        "notSpecified": "বাজেট উল্লেখ করা হয়নি",
+        "upTo": "সর্বোচ্চ",
+        "from": "শুরু"
+      },
+      "status": {
+        "open": "চলমান",
+        "in_progress": "প্রক্রিয়াধীন",
+        "closed": "বন্ধ",
+        "cancelled": "বাতিল",
+        "accepted": "গৃহীত",
+        "pending": "অপেক্ষমাণ",
+        "rejected": "প্রত্যাখ্যাত"
+      },
+      "urgency": {
+        "high": "উচ্চ জরুরি",
+        "medium": "মাঝারি জরুরি",
+        "low": "কম জরুরি"
+      },
+      "category": {
+        "family": "পারিবারিক",
+        "criminal": "ফৌজদারি",
+        "property": "সম্পত্তি",
+        "corporate": "কর্পোরেট",
+        "civil": "দেওয়ানি",
+        "tax": "কর",
+        "labour": "শ্রম",
+        "cyber": "সাইবার",
+        "immigration": "ইমিগ্রেশন",
+        "other": "অন্যান্য",
+        "legalPost": "আইনি পোস্ট"
+      },
+      "badges": {
+        "priorityCase": "প্রায়োরিটি মামলা"
+      },
+      "messages": {
+        "failedFetchPostDetails": "পোস্টের বিস্তারিত আনতে ব্যর্থ হয়েছে",
+        "failedConnectionRequest": "কনেকশন রিকোয়েস্ট পাঠাতে ব্যর্থ হয়েছে",
+        "failedProposal": "প্রস্তাব পাঠাতে ব্যর্থ হয়েছে",
+        "connectionRequestSent": "কনেকশন রিকোয়েস্ট সফলভাবে পাঠানো হয়েছে",
+        "proposalSent": "প্রস্তাব সফলভাবে পাঠানো হয়েছে",
+        "pleaseLoginFirst": "প্রথমে লগইন করুন",
+        "onlyLawyersRequest": "শুধু আইনজীবীরা কনেকশন রিকোয়েস্ট পাঠাতে পারবেন",
+        "onlyLawyersProposal": "শুধু আইনজীবীরা প্রস্তাব পাঠাতে পারবেন",
+        "activeSubscriptionRequest": "কনেকশন রিকোয়েস্ট পাঠাতে সক্রিয় সাবস্ক্রিপশন প্রয়োজন",
+        "activeSubscriptionProposal": "প্রস্তাব পাঠাতে সক্রিয় সাবস্ক্রিপশন প্রয়োজন",
+        "clientInfoNotFound": "ক্লায়েন্টের তথ্য পাওয়া যায়নি",
+        "connectionRequiredBeforeProposal": "প্রস্তাব পাঠানোর আগে ক্লায়েন্টকে আপনার কনেকশন রিকোয়েস্ট গ্রহণ করতে হবে",
+        "proposalFieldsRequired": "প্রস্তাবিত ফি, আনুমানিক দিন এবং মেসেজ আবশ্যক"
+      },
+      "actionStates": {
+        "loginRequestLabel": "রিকোয়েস্ট পাঠাতে লগইন করুন",
+        "loginRequestReason": "কনেকশন রিকোয়েস্ট পাঠাতে আইনজীবী হিসেবে লগইন করুন।",
+        "onlyLawyerRequestLabel": "শুধু আইনজীবী রিকোয়েস্ট করতে পারবেন",
+        "onlyLawyerRequestReason": "শুধু আইনজীবীরা ক্লায়েন্টদের কনেকশন রিকোয়েস্ট পাঠাতে পারবেন।",
+        "requestClosedLabel": "রিকোয়েস্ট বন্ধ",
+        "requestClosedReason": "কনেকশন রিকোয়েস্ট শুধু চলমান পোস্টের জন্য পাওয়া যায়।",
+        "upgradeRequired": "আপগ্রেড প্রয়োজন",
+        "upgradeRequestReason": "কনেকশন রিকোয়েস্ট পাঠাতে আপনার সক্রিয় সাবস্ক্রিপশন প্রয়োজন।",
+        "connectionAccepted": "কনেকশন গৃহীত",
+        "requestPending": "রিকোয়েস্ট অপেক্ষমাণ",
+        "requestRejected": "রিকোয়েস্ট প্রত্যাখ্যাত",
+        "requestExists": "রিকোয়েস্ট আছে",
+        "connectionStatus": "কনেকশন স্ট্যাটাস",
+        "sendConnectionRequest": "কনেকশন রিকোয়েস্ট পাঠান",
+        "loginProposalLabel": "প্রস্তাব পাঠাতে লগইন করুন",
+        "loginProposalReason": "প্রস্তাব পাঠাতে আইনজীবী হিসেবে লগইন করুন।",
+        "onlyLawyerProposalLabel": "শুধু আইনজীবী প্রস্তাব পাঠাতে পারবেন",
+        "onlyLawyerProposalReason": "ক্লায়েন্টরা মামলার বিস্তারিত দেখতে পারবেন, কিন্তু শুধু আইনজীবীরা প্রস্তাব পাঠাতে পারবেন।",
+        "proposalClosedLabel": "প্রস্তাব বন্ধ",
+        "proposalClosedReason": "প্রস্তাব শুধু চলমান পোস্টের জন্য পাওয়া যায়।",
+        "upgradeProposalReason": "প্রস্তাব পাঠাতে আপনার সক্রিয় সাবস্ক্রিপশন প্রয়োজন।",
+        "connectionRequired": "কনেকশন প্রয়োজন",
+        "connectionRequiredReason": "প্রস্তাব পাঠানোর আগে ক্লায়েন্টকে আপনার কনেকশন রিকোয়েস্ট গ্রহণ করতে হবে।",
+        "proposalAlreadySent": "প্রস্তাব আগে পাঠানো হয়েছে",
+        "proposalAlreadySentReason": "আপনি এই পোস্টে ইতিমধ্যে প্রস্তাব পাঠিয়েছেন।",
+        "sendProposal": "প্রস্তাব পাঠান"
+      },
+      "loading": {
+        "caseDetails": "মামলার বিস্তারিত লোড হচ্ছে...",
+        "checkingConnection": "কনেকশন যাচাই করা হচ্ছে..."
+      },
+      "errorState": {
+        "title": "মামলার বিস্তারিত পাওয়া যায়নি"
+      },
+      "intro": {
+        "instruction": "আইনজীবীদের আগে কনেকশন রিকোয়েস্ট পাঠাতে হবে। ক্লায়েন্ট গ্রহণ করার পর প্রস্তাব পাঠানোর অপশন চালু হবে।"
+      },
+      "sections": {
+        "descriptionTitle": "মামলার বিবরণ",
+        "descriptionSubtitle": "ক্লায়েন্টের দেওয়া মামলার বিস্তারিত।",
+        "documentsTitle": "ডকুমেন্টস",
+        "documentsSubtitle": "ক্লায়েন্টের সংযুক্ত ফাইল বা রেফারেন্স।",
+        "document": "ডকুমেন্ট",
+        "noDocuments": "কোনো ডকুমেন্ট সংযুক্ত নেই।",
+        "proposalActivityTitle": "প্রস্তাব কার্যক্রম",
+        "proposalActivitySubtitle": "এই পোস্টে জমা দেওয়া মোট প্রস্তাব।",
+        "totalProposals": "মোট প্রস্তাব",
+        "acceptedProposal": "এই মামলায় একটি প্রস্তাব গৃহীত হয়েছে।",
+        "noAcceptedProposal": "এখনো কোনো প্রস্তাব গৃহীত হয়নি।"
+      },
+      "summary": {
+        "title": "মামলার সারাংশ",
+        "subtitle": "গুরুত্বপূর্ণ মামলার তথ্য।",
+        "budget": "বাজেট",
+        "location": "লোকেশন",
+        "posted": "পোস্ট করা হয়েছে",
+        "updated": "আপডেট হয়েছে"
+      },
+      "clientInfo": {
+        "title": "ক্লায়েন্ট তথ্য",
+        "subtitle": "মৌলিক পাবলিক ক্লায়েন্ট তথ্য।",
+        "protectedContact": "প্ল্যাটফর্ম সুরক্ষিত যোগাযোগ"
+      },
+      "lawyerBox": {
+        "step1Title": "ধাপ ১: কনেকশন রিকোয়েস্ট",
+        "step2Title": "ধাপ ২: প্রস্তাব পাঠান",
+        "step1Subtitle": "আগে রিকোয়েস্ট পাঠান। অনুমোদনের পর প্রস্তাব চালু হবে।",
+        "step2Subtitle": "ক্লায়েন্ট আপনার রিকোয়েস্ট গ্রহণ করেছেন। এখন আপনি প্রস্তাব পাঠাতে পারবেন।",
+        "waitingApproval": "ক্লায়েন্টের অনুমোদনের অপেক্ষায়। গ্রহণ করার পর প্রস্তাব বাটন চালু হবে।"
+      },
+      "loginBox": {
+        "title": "এই মামলায় সাড়া দিতে চান?",
+        "description": "কনেকশন রিকোয়েস্ট ও প্রস্তাব পাঠাতে আইনজীবী হিসেবে লগইন করুন।",
+        "button": "লগইনে যান"
+      },
+      "requestModal": {
+        "badge": "কনেকশন রিকোয়েস্ট",
+        "title": "ক্লায়েন্ট কনেকশন রিকোয়েস্ট",
+        "subtitle": "ক্লায়েন্ট গ্রহণ করার পর আপনি প্রস্তাব পাঠাতে পারবেন।",
+        "messageLabel": "রিকোয়েস্ট মেসেজ",
+        "messagePlaceholder": "উদাহরণ: আমি আপনার মামলা দেখেছি এবং কীভাবে সাহায্য করতে পারি তা আলোচনা করতে চাই।",
+        "sendButton": "রিকোয়েস্ট পাঠান"
+      },
+      "proposalModal": {
+        "badge": "প্রস্তাব পাঠান",
+        "subtitle": "ক্লায়েন্টের কাছে আপনার আইনি সেবার প্রস্তাব জমা দিন।",
+        "feeLabel": "প্রস্তাবিত ফি",
+        "feePlaceholder": "উদাহরণ: ৫০০০",
+        "daysLabel": "আনুমানিক দিন",
+        "daysPlaceholder": "উদাহরণ: ৭",
+        "messageLabel": "প্রস্তাব মেসেজ",
+        "messagePlaceholder": "আপনার প্রস্তাব, অভিজ্ঞতা, সেবার পরিকল্পনা এবং কেন ক্লায়েন্ট আপনাকে বেছে নেবে তা লিখুন...",
+        "sendButton": "প্রস্তাব পাঠান"
+      }
+    }
+  }
+}

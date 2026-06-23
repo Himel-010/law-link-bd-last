@@ -1,0 +1,374 @@
+{
+  "en": {
+    "locale": "en-BD",
+    "post": {
+      "common": {
+        "all": "All",
+        "unlimited": "Unlimited",
+        "currentPlan": "Current Plan",
+        "activePlan": "Active Plan",
+        "login": "Login",
+        "refresh": "Refresh",
+        "addPost": "Add Post",
+        "details": "Details",
+        "cancel": "Cancel",
+        "createPost": "Create Post",
+        "sendProposal": "Send Proposal",
+        "loadMore": "Load More",
+        "clearFilters": "Clear Filters",
+        "notSpecified": "Not specified",
+        "anonymous": "Anonymous",
+        "adminAccessUnlocked": "Admin access unlocked",
+        "fullAdminAccess": "Full admin access",
+        "adminMode": "Admin Mode",
+        "request": "Request",
+        "recentlyPosted": "Recently posted",
+        "budgetNotSpecified": "Budget not specified",
+        "upTo": "Up to",
+        "from": "From",
+        "showing": "Showing",
+        "loadedPosts": "loaded posts",
+        "loadedPost": "loaded post",
+        "morePostsAvailable": "More posts available",
+        "status": "Status",
+        "plan": "Plan",
+        "posts": "Posts",
+        "proposals": "Proposals",
+        "priority": "Priority"
+      },
+      "hero": {
+        "badge": "Legal Case Marketplace",
+        "title": "Legal Case Posts",
+        "searchPlaceholder": "Search by title, description, category...",
+        "loginToAccess": "Login to access actions"
+      },
+      "filters": {
+        "title": "Filter Posts",
+        "description": "Choose filters to narrow down the legal case posts list.",
+        "toggleAria": "Toggle filters",
+        "reset": "Reset Filters",
+        "allCategories": "All Categories",
+        "allUrgency": "All Urgency",
+        "allStatus": "All Status",
+        "allLocations": "All Locations"
+      },
+      "empty": {
+        "title": "No posts found",
+        "description": "No legal case post matched your current search or filter options."
+      },
+      "loading": {
+        "posts": "Loading case posts..."
+      },
+      "badges": {
+        "clientPosts": "Posts",
+        "lawyerProposals": "Proposals",
+        "remainingPosts": "Remaining posts"
+      },
+      "card": {
+        "legalPost": "Legal Post",
+        "untitledPost": "Untitled Post",
+        "urgencySuffix": "urgency",
+        "noDescription": "No description provided.",
+        "client": "Client",
+        "budget": "Budget",
+        "location": "Location",
+        "posted": "Posted",
+        "proposals": "Proposals"
+      },
+      "createModal": {
+        "title": "Create Case Post",
+        "loginMessage": "Please login first to create a case post.",
+        "adminText": "Subscription and post limits are unlocked for admin.",
+        "activePlan": "Active Plan",
+        "yourLimit": "Your limit",
+        "remainingPosts": "Remaining posts",
+        "titleLabel": "Title *",
+        "titlePlaceholder": "Example: Need help with property dispute",
+        "descriptionLabel": "Description *",
+        "descriptionPlaceholder": "Describe your legal issue...",
+        "categoryLabel": "Category",
+        "urgencyLabel": "Urgency",
+        "minBudgetLabel": "Minimum Budget",
+        "maxBudgetLabel": "Maximum Budget",
+        "divisionLabel": "Division",
+        "divisionPlaceholder": "Example: Dhaka",
+        "districtLabel": "District",
+        "districtPlaceholder": "Example: Dhaka",
+        "expiresAtLabel": "Expires At",
+        "documentsLabel": "Documents",
+        "documentsPlaceholder": "Comma separated document URLs",
+        "upgradePlan": "Upgrade Plan"
+      },
+      "bidModal": {
+        "title": "Send Proposal",
+        "loginMessage": "Please login first to send a proposal.",
+        "proposalLimit": "Proposal limit",
+        "contactUnlock": "Contact unlock is included in your active plan.",
+        "inAppMessaging": "In-app messaging is included in your active plan.",
+        "proposedFeeLabel": "Proposed Fee *",
+        "proposedFeePlaceholder": "Example: 5000",
+        "estimatedDaysLabel": "Estimated Days *",
+        "estimatedDaysPlaceholder": "Example: 7",
+        "messageLabel": "Message *",
+        "messagePlaceholder": "Explain how you can help this client..."
+      },
+      "actions": {
+        "login": "Login",
+        "viewDetails": "View Details",
+        "closed": "Closed",
+        "subscriptionRequired": "Subscription Required",
+        "notAllowed": "Not Allowed",
+        "proposalSent": "Proposal Sent",
+        "sendProposal": "Send Proposal",
+        "reasons": {
+          "closed": "Proposal is available only for open posts.",
+          "subscription": "Active subscription required.",
+          "notAllowed": "Your plan does not allow proposals.",
+          "alreadyBid": "You already sent a proposal."
+        }
+      },
+      "messages": {
+        "postCreated": "Post created successfully.",
+        "proposalSent": "Proposal sent successfully."
+      },
+      "errors": {
+        "requestFailed": "Request failed",
+        "noActiveSubscription": "No active subscription found",
+        "failedSubscription": "Failed to fetch subscription",
+        "failedUsage": "Failed to fetch usage",
+        "failedPosts": "Failed to fetch posts",
+        "pleaseLogin": "Please login first.",
+        "onlyClientsCreate": "Only clients can create case posts.",
+        "needActiveSubscriptionCreate": "You need an active subscription to create case posts.",
+        "planNoPost": "Your current plan does not allow case posting.",
+        "limitReached": "Case post limit reached. Used {{used}} of {{limit}} posts.",
+        "paidLimitReached": "Your case post limit is reached for this subscription period.",
+        "freeLimitReached": "Your case post limit is reached. Please upgrade your plan.",
+        "titleDescriptionRequired": "Title and description are required.",
+        "maxBudgetGreater": "Maximum budget must be greater than minimum budget.",
+        "failedCreatePost": "Failed to create post",
+        "notEnoughPostAccess": "Your plan does not have enough case post access.",
+        "postNotSelected": "Post not selected.",
+        "onlyLawyersProposal": "Only lawyers can send proposals.",
+        "verifiedLawyerRequired": "Please login with a verified lawyer account.",
+        "needActiveSubscriptionProposal": "You need an active subscription to send proposals.",
+        "planNoProposal": "Your current plan does not allow proposal sending.",
+        "proposalFieldsRequired": "Proposed fee, estimated days and message are required.",
+        "failedSendProposal": "Failed to send proposal",
+        "casePostLimitApi": "Case post limit reached. Used {{used}} of {{limit}} posts in this subscription period.",
+        "proposalLimitApi": "Proposal limit reached. Used {{used}} of {{limit}} proposals in this subscription period."
+      },
+      "options": {
+        "category": {
+          "family": "Family",
+          "criminal": "Criminal",
+          "property": "Property",
+          "corporate": "Corporate",
+          "civil": "Civil",
+          "tax": "Tax",
+          "labour": "Labour",
+          "cyber": "Cyber",
+          "immigration": "Immigration",
+          "other": "Other"
+        },
+        "urgency": {
+          "high": "High",
+          "medium": "Medium",
+          "low": "Low"
+        },
+        "status": {
+          "open": "Open",
+          "in_progress": "In Progress",
+          "closed": "Closed",
+          "cancelled": "Cancelled"
+        }
+      }
+    }
+  },
+  "bn": {
+    "locale": "bn-BD",
+    "post": {
+      "common": {
+        "all": "সব",
+        "unlimited": "আনলিমিটেড",
+        "currentPlan": "বর্তমান প্ল্যান",
+        "activePlan": "সক্রিয় প্ল্যান",
+        "login": "লগইন",
+        "refresh": "রিফ্রেশ",
+        "addPost": "পোস্ট যোগ করুন",
+        "details": "বিস্তারিত",
+        "cancel": "বাতিল",
+        "createPost": "পোস্ট তৈরি করুন",
+        "sendProposal": "প্রস্তাব পাঠান",
+        "loadMore": "আরও দেখুন",
+        "clearFilters": "ফিল্টার পরিষ্কার করুন",
+        "notSpecified": "উল্লেখ করা হয়নি",
+        "anonymous": "নাম প্রকাশ নয়",
+        "adminAccessUnlocked": "অ্যাডমিন অ্যাক্সেস চালু",
+        "fullAdminAccess": "সম্পূর্ণ অ্যাডমিন অ্যাক্সেস",
+        "adminMode": "অ্যাডমিন মোড",
+        "request": "রিকোয়েস্ট",
+        "recentlyPosted": "সম্প্রতি পোস্ট করা হয়েছে",
+        "budgetNotSpecified": "বাজেট উল্লেখ করা হয়নি",
+        "upTo": "সর্বোচ্চ",
+        "from": "শুরু",
+        "showing": "দেখানো হচ্ছে",
+        "loadedPosts": "লোড হওয়া পোস্ট",
+        "loadedPost": "লোড হওয়া পোস্ট",
+        "morePostsAvailable": "আরও পোস্ট আছে",
+        "status": "স্ট্যাটাস",
+        "plan": "প্ল্যান",
+        "posts": "পোস্ট",
+        "proposals": "প্রস্তাব",
+        "priority": "প্রায়োরিটি"
+      },
+      "hero": {
+        "badge": "আইনি কেস মার্কেটপ্লেস",
+        "title": "আইনি কেস পোস্ট",
+        "searchPlaceholder": "টাইটেল, বিবরণ বা ক্যাটাগরি দিয়ে সার্চ করুন...",
+        "loginToAccess": "অ্যাকশন ব্যবহার করতে লগইন করুন"
+      },
+      "filters": {
+        "title": "পোস্ট ফিল্টার করুন",
+        "description": "আইনি কেস পোস্টের তালিকা ছোট করতে ফিল্টার নির্বাচন করুন।",
+        "toggleAria": "ফিল্টার চালু/বন্ধ করুন",
+        "reset": "ফিল্টার রিসেট করুন",
+        "allCategories": "সব ক্যাটাগরি",
+        "allUrgency": "সব জরুরি অবস্থা",
+        "allStatus": "সব স্ট্যাটাস",
+        "allLocations": "সব লোকেশন"
+      },
+      "empty": {
+        "title": "কোনো পোস্ট পাওয়া যায়নি",
+        "description": "আপনার সার্চ বা ফিল্টারের সাথে কোনো আইনি কেস পোস্ট মেলেনি।"
+      },
+      "loading": {
+        "posts": "কেস পোস্ট লোড হচ্ছে..."
+      },
+      "badges": {
+        "clientPosts": "পোস্ট",
+        "lawyerProposals": "প্রস্তাব",
+        "remainingPosts": "বাকি পোস্ট"
+      },
+      "card": {
+        "legalPost": "আইনি পোস্ট",
+        "untitledPost": "শিরোনামহীন পোস্ট",
+        "urgencySuffix": "জরুরি",
+        "noDescription": "কোনো বিবরণ দেওয়া হয়নি।",
+        "client": "ক্লায়েন্ট",
+        "budget": "বাজেট",
+        "location": "লোকেশন",
+        "posted": "পোস্ট করা হয়েছে",
+        "proposals": "প্রস্তাব"
+      },
+      "createModal": {
+        "title": "কেস পোস্ট তৈরি করুন",
+        "loginMessage": "কেস পোস্ট তৈরি করতে আগে লগইন করুন।",
+        "adminText": "অ্যাডমিনের জন্য সাবস্ক্রিপশন ও পোস্ট লিমিট আনলক করা আছে।",
+        "activePlan": "সক্রিয় প্ল্যান",
+        "yourLimit": "আপনার লিমিট",
+        "remainingPosts": "বাকি পোস্ট",
+        "titleLabel": "টাইটেল *",
+        "titlePlaceholder": "যেমন: জমি সংক্রান্ত বিরোধে সাহায্য দরকার",
+        "descriptionLabel": "বিবরণ *",
+        "descriptionPlaceholder": "আপনার আইনি সমস্যাটি লিখুন...",
+        "categoryLabel": "ক্যাটাগরি",
+        "urgencyLabel": "জরুরি অবস্থা",
+        "minBudgetLabel": "ন্যূনতম বাজেট",
+        "maxBudgetLabel": "সর্বোচ্চ বাজেট",
+        "divisionLabel": "বিভাগ",
+        "divisionPlaceholder": "যেমন: ঢাকা",
+        "districtLabel": "জেলা",
+        "districtPlaceholder": "যেমন: ঢাকা",
+        "expiresAtLabel": "শেষ তারিখ",
+        "documentsLabel": "ডকুমেন্ট",
+        "documentsPlaceholder": "কমা দিয়ে আলাদা করা ডকুমেন্ট URL",
+        "upgradePlan": "প্ল্যান আপগ্রেড করুন"
+      },
+      "bidModal": {
+        "title": "প্রস্তাব পাঠান",
+        "loginMessage": "প্রস্তাব পাঠাতে আগে লগইন করুন।",
+        "proposalLimit": "প্রস্তাব লিমিট",
+        "contactUnlock": "আপনার সক্রিয় প্ল্যানে কন্টাক্ট আনলক অন্তর্ভুক্ত আছে।",
+        "inAppMessaging": "আপনার সক্রিয় প্ল্যানে ইন-অ্যাপ মেসেজিং অন্তর্ভুক্ত আছে।",
+        "proposedFeeLabel": "প্রস্তাবিত ফি *",
+        "proposedFeePlaceholder": "যেমন: ৫০০০",
+        "estimatedDaysLabel": "আনুমানিক দিন *",
+        "estimatedDaysPlaceholder": "যেমন: ৭",
+        "messageLabel": "মেসেজ *",
+        "messagePlaceholder": "আপনি কীভাবে ক্লায়েন্টকে সাহায্য করবেন তা লিখুন..."
+      },
+      "actions": {
+        "login": "লগইন",
+        "viewDetails": "বিস্তারিত দেখুন",
+        "closed": "বন্ধ",
+        "subscriptionRequired": "সাবস্ক্রিপশন প্রয়োজন",
+        "notAllowed": "অনুমতি নেই",
+        "proposalSent": "প্রস্তাব পাঠানো হয়েছে",
+        "sendProposal": "প্রস্তাব পাঠান",
+        "reasons": {
+          "closed": "শুধু ওপেন পোস্টে প্রস্তাব পাঠানো যাবে।",
+          "subscription": "সক্রিয় সাবস্ক্রিপশন প্রয়োজন।",
+          "notAllowed": "আপনার প্ল্যানে প্রস্তাব পাঠানোর সুবিধা নেই।",
+          "alreadyBid": "আপনি ইতোমধ্যে প্রস্তাব পাঠিয়েছেন।"
+        }
+      },
+      "messages": {
+        "postCreated": "পোস্ট সফলভাবে তৈরি হয়েছে।",
+        "proposalSent": "প্রস্তাব সফলভাবে পাঠানো হয়েছে।"
+      },
+      "errors": {
+        "requestFailed": "রিকোয়েস্ট ব্যর্থ হয়েছে",
+        "noActiveSubscription": "কোনো সক্রিয় সাবস্ক্রিপশন পাওয়া যায়নি",
+        "failedSubscription": "সাবস্ক্রিপশন আনতে ব্যর্থ হয়েছে",
+        "failedUsage": "ব্যবহার তথ্য আনতে ব্যর্থ হয়েছে",
+        "failedPosts": "পোস্ট আনতে ব্যর্থ হয়েছে",
+        "pleaseLogin": "অনুগ্রহ করে আগে লগইন করুন।",
+        "onlyClientsCreate": "শুধু ক্লায়েন্ট কেস পোস্ট তৈরি করতে পারবেন।",
+        "needActiveSubscriptionCreate": "কেস পোস্ট তৈরি করতে সক্রিয় সাবস্ক্রিপশন প্রয়োজন।",
+        "planNoPost": "আপনার বর্তমান প্ল্যানে কেস পোস্ট করার সুবিধা নেই।",
+        "limitReached": "কেস পোস্ট লিমিট শেষ। {{limit}}টির মধ্যে {{used}}টি ব্যবহার হয়েছে।",
+        "paidLimitReached": "এই সাবস্ক্রিপশন পিরিয়ডের জন্য আপনার কেস পোস্ট লিমিট শেষ।",
+        "freeLimitReached": "আপনার কেস পোস্ট লিমিট শেষ। অনুগ্রহ করে প্ল্যান আপগ্রেড করুন।",
+        "titleDescriptionRequired": "টাইটেল এবং বিবরণ আবশ্যক।",
+        "maxBudgetGreater": "সর্বোচ্চ বাজেট ন্যূনতম বাজেটের চেয়ে বেশি হতে হবে।",
+        "failedCreatePost": "পোস্ট তৈরি করতে ব্যর্থ হয়েছে",
+        "notEnoughPostAccess": "আপনার প্ল্যানে পর্যাপ্ত কেস পোস্ট সুবিধা নেই।",
+        "postNotSelected": "পোস্ট নির্বাচন করা হয়নি।",
+        "onlyLawyersProposal": "শুধু আইনজীবীরা প্রস্তাব পাঠাতে পারবেন।",
+        "verifiedLawyerRequired": "অনুগ্রহ করে ভেরিফাইড আইনজীবী অ্যাকাউন্ট দিয়ে লগইন করুন।",
+        "needActiveSubscriptionProposal": "প্রস্তাব পাঠাতে সক্রিয় সাবস্ক্রিপশন প্রয়োজন।",
+        "planNoProposal": "আপনার বর্তমান প্ল্যানে প্রস্তাব পাঠানোর সুবিধা নেই।",
+        "proposalFieldsRequired": "প্রস্তাবিত ফি, আনুমানিক দিন এবং মেসেজ আবশ্যক।",
+        "failedSendProposal": "প্রস্তাব পাঠাতে ব্যর্থ হয়েছে",
+        "casePostLimitApi": "এই সাবস্ক্রিপশন পিরিয়ডে কেস পোস্ট লিমিট শেষ। {{limit}}টির মধ্যে {{used}}টি ব্যবহার হয়েছে।",
+        "proposalLimitApi": "এই সাবস্ক্রিপশন পিরিয়ডে প্রস্তাব লিমিট শেষ। {{limit}}টির মধ্যে {{used}}টি ব্যবহার হয়েছে।"
+      },
+      "options": {
+        "category": {
+          "family": "পারিবারিক",
+          "criminal": "ফৌজদারি",
+          "property": "সম্পত্তি",
+          "corporate": "কর্পোরেট",
+          "civil": "দেওয়ানি",
+          "tax": "কর",
+          "labour": "শ্রম",
+          "cyber": "সাইবার",
+          "immigration": "ইমিগ্রেশন",
+          "other": "অন্যান্য"
+        },
+        "urgency": {
+          "high": "উচ্চ",
+          "medium": "মাঝারি",
+          "low": "কম"
+        },
+        "status": {
+          "open": "ওপেন",
+          "in_progress": "চলমান",
+          "closed": "বন্ধ",
+          "cancelled": "বাতিল"
+        }
+      }
+    }
+  }
+}

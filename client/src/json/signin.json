@@ -1,0 +1,57 @@
+{
+  "en": {
+    "signin": {
+      "backHome": "Back to Home",
+      "brand": "LegalAid",
+      "welcomeTitle": "Welcome back",
+      "welcomeDesc": "Please sign in to your account to continue",
+
+      "emailLabel": "Email Address",
+      "emailPlaceholder": "Enter your email",
+
+      "passwordLabel": "Password",
+      "passwordPlaceholder": "Enter your password",
+
+      "rememberMe": "Remember me",
+      "forgotPassword": "Forgot password?",
+
+      "signInButton": "Sign In",
+
+      "orContinue": "Or continue with",
+
+      "google": "Google",
+      "facebook": "Facebook",
+
+      "noAccount": "Don't have an account?",
+      "signUpHere": "Sign up here"
+    }
+  },
+
+  "bn": {
+    "signin": {
+      "backHome": "হোমে ফিরে যান",
+      "brand": "লিগ্যালএইড",
+      "welcomeTitle": "স্বাগতম",
+      "welcomeDesc": "চালিয়ে যেতে আপনার একাউন্টে লগইন করুন",
+
+      "emailLabel": "ইমেইল ঠিকানা",
+      "emailPlaceholder": "আপনার ইমেইল লিখুন",
+
+      "passwordLabel": "পাসওয়ার্ড",
+      "passwordPlaceholder": "আপনার পাসওয়ার্ড লিখুন",
+
+      "rememberMe": "আমাকে মনে রাখুন",
+      "forgotPassword": "পাসওয়ার্ড ভুলে গেছেন?",
+
+      "signInButton": "লগইন করুন",
+
+      "orContinue": "অথবা চালিয়ে যান",
+
+      "google": "গুগল",
+      "facebook": "ফেসবুক",
+
+      "noAccount": "একাউন্ট নেই?",
+      "signUpHere": "এখানে সাইন আপ করুন"
+    }
+  }
+}

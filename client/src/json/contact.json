@@ -1,0 +1,209 @@
+{
+  "en": {
+    "contact": {
+      "header": {
+        "title": "Get in Touch",
+        "description": "Have questions about our legal aid platform? Need help with your case? We're here to assist you every step of the way."
+      },
+
+      "form": {
+        "title": "Send us a Message",
+        "fullName": "Full Name",
+        "fullNamePlaceholder": "Enter your full name",
+        "email": "Email Address",
+        "emailPlaceholder": "Enter your email",
+        "subject": "Subject",
+        "subjectPlaceholder": "What is this regarding?",
+        "urgency": "Urgency Level",
+        "urgencyOptions": {
+          "low": "Low - General inquiry",
+          "normal": "Normal - Standard support",
+          "high": "High - Urgent assistance needed",
+          "critical": "Critical - Emergency legal matter"
+        },
+        "message": "Message",
+        "messagePlaceholder": "Please describe your question or concern in detail...",
+        "submit": "Send Message"
+      },
+
+      "info": {
+        "title": "Contact Information",
+        "phoneTime": "Mon-Fri, 9AM-6PM EST",
+        "emailTime": "Response within 24 hours",
+        "addressTitle": "123 Justice Street",
+        "addressSubtitle": "Legal City, LC 12345"
+      },
+
+      "officeHours": {
+        "title": "Office Hours",
+        "weekday": "Monday - Friday",
+        "weekdayTime": "9:00 AM - 6:00 PM",
+        "saturday": "Saturday",
+        "saturdayTime": "10:00 AM - 4:00 PM",
+        "sunday": "Sunday",
+        "sundayTime": "Closed"
+      },
+
+      "emergency": {
+        "title": "Emergency Legal Help",
+        "description": "If you have an urgent legal matter that requires immediate attention, please call our emergency hotline.",
+        "button": "Call Emergency Line"
+      },
+
+      "methods": {
+        "title": "How Can We Help You?",
+        "phone": {
+          "title": "Phone Support",
+          "description": "Speak directly with our support team",
+          "availability": "Mon-Fri, 9AM-6PM EST"
+        },
+        "email": {
+          "title": "Email Support",
+          "description": "Send us a detailed message",
+          "availability": "Response within 24 hours"
+        },
+        "chat": {
+          "title": "Live Chat",
+          "description": "Get instant help from our team",
+          "availability": "Mon-Fri, 9AM-6PM EST"
+        },
+        "help": {
+          "title": "Help Center",
+          "description": "Browse our knowledge base",
+          "availability": "Available 24/7"
+        }
+      },
+
+      "faq": {
+        "title": "Frequently Asked Questions",
+        "q1": {
+          "question": "How do I submit a case?",
+          "answer": "You can submit your case through our online form. Simply provide your case details, upload any relevant documents, and our system will match you with appropriate volunteer lawyers."
+        },
+        "q2": {
+          "question": "Is the service really free?",
+          "answer": "Yes, our platform connects you with volunteer lawyers who provide pro bono services. There are no fees for using our matching service or accessing our legal resources."
+        },
+        "q3": {
+          "question": "How long does it take to get matched with a lawyer?",
+          "answer": "Most cases are matched within 24-48 hours. Complex cases may take up to a week."
+        },
+        "q4": {
+          "question": "What types of cases do you handle?",
+          "answer": "We handle a wide range of legal matters including family law, immigration, property disputes, employment issues, and more."
+        }
+      },
+
+      "offices": {
+        "title": "Our Offices",
+        "newYork": "New York",
+        "losAngeles": "Los Angeles",
+        "chicago": "Chicago"
+      }
+    }
+  },
+
+  "bn": {
+    "contact": {
+      "header": {
+        "title": "যোগাযোগ করুন",
+        "description": "আমাদের আইনি সহায়তা প্ল্যাটফর্ম সম্পর্কে প্রশ্ন আছে? আপনার কেসে সাহায্য দরকার? আমরা প্রতিটি ধাপে আপনার পাশে আছি।"
+      },
+
+      "form": {
+        "title": "আমাদের বার্তা পাঠান",
+        "fullName": "পূর্ণ নাম",
+        "fullNamePlaceholder": "আপনার পূর্ণ নাম লিখুন",
+        "email": "ইমেইল ঠিকানা",
+        "emailPlaceholder": "আপনার ইমেইল লিখুন",
+        "subject": "বিষয়",
+        "subjectPlaceholder": "এই বার্তাটি কী সম্পর্কে?",
+        "urgency": "জরুরি মাত্রা",
+        "urgencyOptions": {
+          "low": "কম - সাধারণ জিজ্ঞাসা",
+          "normal": "স্বাভাবিক - সাধারণ সহায়তা",
+          "high": "উচ্চ - দ্রুত সহায়তা প্রয়োজন",
+          "critical": "অত্যন্ত জরুরি - জরুরি আইনি সমস্যা"
+        },
+        "message": "বার্তা",
+        "messagePlaceholder": "আপনার প্রশ্ন বা সমস্যাটি বিস্তারিতভাবে লিখুন...",
+        "submit": "বার্তা পাঠান"
+      },
+
+      "info": {
+        "title": "যোগাযোগের তথ্য",
+        "phoneTime": "সোম-শুক্র, সকাল ৯টা - সন্ধ্যা ৬টা",
+        "emailTime": "২৪ ঘণ্টার মধ্যে উত্তর দেওয়া হবে",
+        "addressTitle": "১২৩ জাস্টিস স্ট্রিট",
+        "addressSubtitle": "লিগ্যাল সিটি, এলসি ১২৩৪৫"
+      },
+
+      "officeHours": {
+        "title": "অফিস সময়সূচি",
+        "weekday": "সোমবার - শুক্রবার",
+        "weekdayTime": "সকাল ৯টা - সন্ধ্যা ৬টা",
+        "saturday": "শনিবার",
+        "saturdayTime": "সকাল ১০টা - বিকাল ৪টা",
+        "sunday": "রবিবার",
+        "sundayTime": "বন্ধ"
+      },
+
+      "emergency": {
+        "title": "জরুরি আইনি সহায়তা",
+        "description": "যদি আপনার কোনো জরুরি আইনি সমস্যায় তাৎক্ষণিক সহায়তা প্রয়োজন হয়, অনুগ্রহ করে আমাদের জরুরি হটলাইনে কল করুন।",
+        "button": "জরুরি নম্বরে কল করুন"
+      },
+
+      "methods": {
+        "title": "আমরা কীভাবে সাহায্য করতে পারি?",
+        "phone": {
+          "title": "ফোন সাপোর্ট",
+          "description": "সরাসরি আমাদের সাপোর্ট টিমের সাথে কথা বলুন",
+          "availability": "সোম-শুক্র, সকাল ৯টা - সন্ধ্যা ৬টা"
+        },
+        "email": {
+          "title": "ইমেইল সাপোর্ট",
+          "description": "বিস্তারিত বার্তা পাঠান",
+          "availability": "২৪ ঘণ্টার মধ্যে উত্তর"
+        },
+        "chat": {
+          "title": "লাইভ চ্যাট",
+          "description": "তাৎক্ষণিক সহায়তা নিন",
+          "availability": "সোম-শুক্র, সকাল ৯টা - সন্ধ্যা ৬টা"
+        },
+        "help": {
+          "title": "হেল্প সেন্টার",
+          "description": "আমাদের জ্ঞানভিত্তিক রিসোর্স দেখুন",
+          "availability": "২৪/৭ উপলব্ধ"
+        }
+      },
+
+      "faq": {
+        "title": "সচরাচর জিজ্ঞাসিত প্রশ্ন",
+        "q1": {
+          "question": "আমি কীভাবে একটি কেস জমা দেব?",
+          "answer": "আপনি আমাদের অনলাইন ফর্মের মাধ্যমে কেস জমা দিতে পারেন। প্রয়োজনীয় তথ্য ও ডকুমেন্ট আপলোড করুন, আমরা উপযুক্ত আইনজীবীর সাথে আপনাকে সংযুক্ত করব।"
+        },
+        "q2": {
+          "question": "এই সেবাটি কি সত্যিই বিনামূল্যে?",
+          "answer": "হ্যাঁ, আমরা স্বেচ্ছাসেবী আইনজীবীদের সাথে সংযুক্ত করি যারা বিনামূল্যে আইনি সহায়তা প্রদান করেন।"
+        },
+        "q3": {
+          "question": "আইনজীবী পেতে কত সময় লাগে?",
+          "answer": "সাধারণত ২৪-৪৮ ঘণ্টার মধ্যে মিল পাওয়া যায়। জটিল কেসে এক সপ্তাহ পর্যন্ত লাগতে পারে।"
+        },
+        "q4": {
+          "question": "আপনারা কী ধরনের কেস পরিচালনা করেন?",
+          "answer": "পারিবারিক আইন, অভিবাসন, সম্পত্তি বিরোধ, চাকরি সংক্রান্ত সমস্যা সহ বিভিন্ন ধরনের কেস আমরা পরিচালনা করি।"
+        }
+      },
+
+      "offices": {
+        "title": "আমাদের অফিসসমূহ",
+        "newYork": "নিউ ইয়র্ক",
+        "losAngeles": "লস অ্যাঞ্জেলেস",
+        "chicago": "শিকাগো"
+      }
+    }
+  }
+}

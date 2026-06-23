@@ -1,0 +1,73 @@
+{
+  "en": {
+    "navbar": {
+      "home": "Home",
+      "lawyers": "Lawyers",
+      "resources": "Resources",
+      "contact": "Contact",
+      "signIn": "Sign In",
+      "getStarted": "Get Started"
+    },
+    "signup": {
+      "joinTitle": "Join Our Legal Community",
+      "joinDesc": "Connect with experienced lawyers, access legal resources, and get the help you need.",
+      "freeConsultation": "Free legal consultation matching",
+      "documentAccess": "Access to legal document library",
+      "caseTracking": "Case progress tracking",
+      "backHome": "Back to Home",
+      "createAccount": "Create Account",
+      "fillDetails": "Fill in your details to get started",
+      "accountType": "Account Type",
+      "client": "Client",
+      "lawyer": "Lawyer",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "password": "Password",
+      "confirmPassword": "Confirm Password",
+      "agree": "I agree to the",
+      "terms": "Terms of Service",
+      "privacy": "Privacy Policy",
+      "orContinue": "Or continue with",
+      "already": "Already have an account?",
+      "signInHere": "Sign in here"
+    }
+  },
+
+  "bn": {
+    "navbar": {
+      "home": "হোম",
+      "lawyers": "আইনজীবী",
+      "resources": "রিসোর্স",
+      "contact": "যোগাযোগ",
+      "signIn": "লগইন",
+      "getStarted": "শুরু করুন"
+    },
+    "signup": {
+      "joinTitle": "আমাদের আইনি কমিউনিটিতে যোগ দিন",
+      "joinDesc": "অভিজ্ঞ আইনজীবীদের সাথে সংযোগ করুন, আইনি রিসোর্স ব্যবহার করুন এবং প্রয়োজনীয় সহায়তা নিন।",
+      "freeConsultation": "ফ্রি আইনি পরামর্শ",
+      "documentAccess": "আইনি ডকুমেন্ট লাইব্রেরি",
+      "caseTracking": "কেস ট্র্যাকিং সুবিধা",
+      "backHome": "হোমে ফিরে যান",
+      "createAccount": "একাউন্ট তৈরি করুন",
+      "fillDetails": "শুরু করতে আপনার তথ্য পূরণ করুন",
+      "accountType": "একাউন্ট টাইপ",
+      "client": "ক্লায়েন্ট",
+      "lawyer": "আইনজীবী",
+      "firstName": "নামের প্রথম অংশ",
+      "lastName": "নামের শেষ অংশ",
+      "email": "ইমেইল ঠিকানা",
+      "phone": "ফোন নাম্বার",
+      "password": "পাসওয়ার্ড",
+      "confirmPassword": "পাসওয়ার্ড নিশ্চিত করুন",
+      "agree": "আমি সম্মত",
+      "terms": "সার্ভিস শর্তাবলী",
+      "privacy": "প্রাইভেসি পলিসি",
+      "orContinue": "অথবা চালিয়ে যান",
+      "already": "আগেই একাউন্ট আছে?",
+      "signInHere": "এখানে লগইন করুন"
+    }
+  }
+}

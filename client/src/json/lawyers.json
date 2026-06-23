@@ -1,0 +1,186 @@
+{
+  "en": {
+    "lawyers": {
+      "meta": {
+        "profileAlt": "Lawyer profile"
+      },
+      "header": {
+        "badge": "Verified Lawyers Only",
+        "title": "Find the Right Lawyer for Your Case",
+        "searchPlaceholder": "Search by name, city, specialization...",
+        "showing": "Showing",
+        "approvedLawyerSingular": "approved lawyer",
+        "approvedLawyerPlural": "approved lawyers",
+        "fullAccess": "Full lawyer details unlocked",
+        "lockedAccess": "Contact details may be locked"
+      },
+      "filters": {
+        "title": "Filter Lawyers",
+        "description": "Choose filters to narrow down the approved lawyers list.",
+        "reset": "Reset Filters",
+        "toggle": "Toggle filters",
+        "allSpecializations": "All Specializations",
+        "allAvailability": "All Availability",
+        "allPlans": "All Plans",
+        "minExperiencePlaceholder": "Minimum experience years",
+        "maxFeePlaceholder": "Maximum consultation fee"
+      },
+      "sort": {
+        "recommended": "Recommended",
+        "rating": "Top Rated",
+        "experience": "Most Experienced",
+        "feeLow": "Lowest Fee",
+        "newest": "Newest"
+      },
+      "subscriptionStatus": {
+        "active": "Active Plan",
+        "pending": "Pending Plan",
+        "expired": "Expired Plan",
+        "cancelled": "Cancelled Plan",
+        "none": "No Plan"
+      },
+      "availability": {
+        "available": "Available",
+        "busy": "Busy",
+        "offline": "Offline"
+      },
+      "specializations": {
+        "Family Law": "Family Law",
+        "Criminal Law": "Criminal Law",
+        "Property Law": "Property Law",
+        "Corporate Law": "Corporate Law",
+        "Immigration Law": "Immigration Law",
+        "Employment Law": "Employment Law",
+        "Tax Law": "Tax Law",
+        "Civil Law": "Civil Law",
+        "Cyber Law": "Cyber Law",
+        "Other": "Other"
+      },
+      "card": {
+        "verified": "Verified",
+        "pending": "Pending",
+        "locked": "Locked",
+        "notSet": "Not set",
+        "unnamedLawyer": "Unnamed Lawyer",
+        "practiceArea": "Practice Area",
+        "legalConsultant": "Legal Consultant",
+        "experience": "Experience",
+        "years": "Years",
+        "lockedMessage": "Upgrade your plan to view full lawyer details and contact information.",
+        "viewDetailsBook": "View Details & Book"
+      },
+      "empty": {
+        "title": "No lawyers found",
+        "description": "No approved lawyer matched your current search or filter options.",
+        "clearFilters": "Clear Filters"
+      },
+      "loading": {
+        "lawyers": "Loading approved lawyers...",
+        "more": "Loading..."
+      },
+      "error": {
+        "title": "Failed to load lawyers",
+        "tryAgain": "Try Again"
+      },
+      "actions": {
+        "loadMore": "Load More Lawyers"
+      },
+      "messages": {
+        "fetchFailed": "Failed to fetch lawyers",
+        "somethingWrong": "Something went wrong"
+      }
+    }
+  },
+  "bn": {
+    "lawyers": {
+      "meta": {
+        "profileAlt": "আইনজীবীর প্রোফাইল"
+      },
+      "header": {
+        "badge": "শুধু যাচাইকৃত আইনজীবী",
+        "title": "আপনার মামলার জন্য সঠিক আইনজীবী খুঁজুন",
+        "searchPlaceholder": "নাম, শহর বা বিশেষায়ন দিয়ে খুঁজুন...",
+        "showing": "দেখানো হচ্ছে",
+        "approvedLawyerSingular": "অনুমোদিত আইনজীবী",
+        "approvedLawyerPlural": "অনুমোদিত আইনজীবী",
+        "fullAccess": "আইনজীবীর সম্পূর্ণ তথ্য আনলক করা আছে",
+        "lockedAccess": "যোগাযোগের তথ্য লক থাকতে পারে"
+      },
+      "filters": {
+        "title": "আইনজীবী ফিল্টার করুন",
+        "description": "অনুমোদিত আইনজীবীদের তালিকা ছোট করতে ফিল্টার নির্বাচন করুন।",
+        "reset": "ফিল্টার রিসেট করুন",
+        "toggle": "ফিল্টার দেখান/লুকান",
+        "allSpecializations": "সব বিশেষায়ন",
+        "allAvailability": "সব অবস্থান",
+        "allPlans": "সব প্ল্যান",
+        "minExperiencePlaceholder": "ন্যূনতম অভিজ্ঞতার বছর",
+        "maxFeePlaceholder": "সর্বোচ্চ পরামর্শ ফি"
+      },
+      "sort": {
+        "recommended": "প্রস্তাবিত",
+        "rating": "সর্বোচ্চ রেটেড",
+        "experience": "সবচেয়ে অভিজ্ঞ",
+        "feeLow": "সর্বনিম্ন ফি",
+        "newest": "নতুন"
+      },
+      "subscriptionStatus": {
+        "active": "সক্রিয় প্ল্যান",
+        "pending": "অপেক্ষমাণ প্ল্যান",
+        "expired": "মেয়াদোত্তীর্ণ প্ল্যান",
+        "cancelled": "বাতিল প্ল্যান",
+        "none": "কোনো প্ল্যান নেই"
+      },
+      "availability": {
+        "available": "উপলব্ধ",
+        "busy": "ব্যস্ত",
+        "offline": "অফলাইন"
+      },
+      "specializations": {
+        "Family Law": "পারিবারিক আইন",
+        "Criminal Law": "ফৌজদারি আইন",
+        "Property Law": "সম্পত্তি আইন",
+        "Corporate Law": "কর্পোরেট আইন",
+        "Immigration Law": "ইমিগ্রেশন আইন",
+        "Employment Law": "শ্রম/চাকরি আইন",
+        "Tax Law": "কর আইন",
+        "Civil Law": "দেওয়ানি আইন",
+        "Cyber Law": "সাইবার আইন",
+        "Other": "অন্যান্য"
+      },
+      "card": {
+        "verified": "যাচাইকৃত",
+        "pending": "অপেক্ষমাণ",
+        "locked": "লকড",
+        "notSet": "সেট করা নেই",
+        "unnamedLawyer": "নামহীন আইনজীবী",
+        "practiceArea": "প্র্যাকটিস এরিয়া",
+        "legalConsultant": "আইনি পরামর্শদাতা",
+        "experience": "অভিজ্ঞতা",
+        "years": "বছর",
+        "lockedMessage": "আইনজীবীর সম্পূর্ণ তথ্য ও যোগাযোগের তথ্য দেখতে আপনার প্ল্যান আপগ্রেড করুন।",
+        "viewDetailsBook": "বিস্তারিত দেখুন ও বুক করুন"
+      },
+      "empty": {
+        "title": "কোনো আইনজীবী পাওয়া যায়নি",
+        "description": "আপনার বর্তমান সার্চ বা ফিল্টারের সাথে কোনো অনুমোদিত আইনজীবী মেলেনি।",
+        "clearFilters": "ফিল্টার পরিষ্কার করুন"
+      },
+      "loading": {
+        "lawyers": "অনুমোদিত আইনজীবী লোড হচ্ছে...",
+        "more": "লোড হচ্ছে..."
+      },
+      "error": {
+        "title": "আইনজীবী লোড করা যায়নি",
+        "tryAgain": "আবার চেষ্টা করুন"
+      },
+      "actions": {
+        "loadMore": "আরও আইনজীবী দেখুন"
+      },
+      "messages": {
+        "fetchFailed": "আইনজীবী আনতে সমস্যা হয়েছে",
+        "somethingWrong": "কিছু ভুল হয়েছে"
+      }
+    }
+  }
+}

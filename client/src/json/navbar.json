@@ -1,0 +1,44 @@
+{
+  "navItems": {
+    "home": {
+      "en": "Home",
+      "bn": "হোম"
+    },
+    "lawyers": {
+      "en": "Lawyers",
+      "bn": "আইনজীবী"
+    },
+    "plans": {
+      "en": "Plans",
+      "bn": "প্ল্যান"
+    },
+    "post": {
+      "en": "Post",
+      "bn": "পোস্ট"
+    },
+    "resources": {
+      "en": "Resources",
+      "bn": "আইনি নথিপত্র"
+    },
+    "contact": {
+      "en": "Contact",
+      "bn": "যোগাযোগ"
+    }
+  },
+  "authButtons": {
+    "signIn": {
+      "en": "Sign In",
+      "bn": "সাইন ইন"
+    },
+    "getStarted": {
+      "en": "Get Started",
+      "bn": "শুরু করুন"
+    }
+  },
+  "languageSelector": {
+    "label": {
+      "en": "Language",
+      "bn": "ভাষা"
+    }
+  }
+}
