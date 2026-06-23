@@ -4,7 +4,7 @@ import { useState, useRef, useEffect } from "react";
 import { MessageCircle, X, Send, Bot, User, Loader2 } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
 
-const CHATBOT_API_URL = "https://law-link-bd-chatbot-api.vercel.app";
+const CHATBOT_API_URL = "https://lawlink-bd-chatbot.vercel.app";
 
 const normalizeMessage = (text) => {
   return String(text || "")
